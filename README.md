@@ -1,4 +1,4 @@
-# HF cancer evolution — submitted-manuscript snapshot
+# Hair follicle cancer evolution - manuscript analysis code
 
 This repository is a manuscript-reproduction snapshot for the submitted
 analysis. It contains publication-safe processed tables, analysis code, and a
