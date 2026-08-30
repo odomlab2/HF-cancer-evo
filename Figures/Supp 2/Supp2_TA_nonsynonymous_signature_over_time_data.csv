@@ -1,0 +1,109 @@
+sample_name,tissue,time,category,n_nonsynonymous_mutations,callable_mbp,nonsynonymous_mutations_per_mbp
+hairfollicle21-b5-w17,Hair follicle,Week 17,Visually normal,8,1.260974,6.344302102977539
+hairfollicle21-b5-w8,Hair follicle,Week 8,Visually normal,13,4.48535,2.8983245454646793
+hairfollicle21-b6-w14,Hair follicle,Week 14,SCC,38,2.707874,14.03314925288252
+hairfollicle21-b6-w17,Hair follicle,Week 17,SCC,5,2.239444,2.23269704444496
+hairfollicle21-b6-w8,Hair follicle,Week 8,SCC,14,4.040815,3.4646476020307784
+hairfollicle21-b7-w14,Hair follicle,Week 14,SCC,0,0.317452,0
+hairfollicle21-b7-w17,Hair follicle,Week 17,SCC,0,0.726865,0
+hairfollicle21-b7-w8,Hair follicle,Week 8,SCC,39,1.600011,24.37483242302709
+hairfollicle21-c1-w17,Hair follicle,Week 17,Visually normal,16,5.576935,2.8689593836040768
+hairfollicle21-c2-w17,Hair follicle,Week 17,Visually normal,7,3.377249,2.0726928929433392
+hairfollicle21-c3-w17,Hair follicle,Week 17,Visually normal,6,4.066871,1.4753357064927803
+hairfollicle21-c5-w14,Hair follicle,Week 14,Visually normal,24,8.015393,2.994238710441272
+hairfollicle21-c5-w17,Hair follicle,Week 17,Visually normal,6,4.055758,1.4793782074768762
+hairfollicle21-c6-w14,Hair follicle,Week 14,SCC,34,39.016084,0.8714354828639389
+hairfollicle21-c6-w17,Hair follicle,Week 17,SCC,0,0.720408,0
+hairfollicle21-c6-w8,Hair follicle,Week 8,SCC,12,4.250127,2.823445040583493
+hairfollicle21-c7-w14,Hair follicle,Week 14,SCC,11,0.25324,43.43705575738429
+hairfollicle21-c7-w17,Hair follicle,Week 17,SCC,1,0.743068,1.345771853989137
+hairfollicle21-c7-w8,Hair follicle,Week 8,SCC,28,2.556339,10.953163880064421
+hairfollicle21-d1-w14,Hair follicle,Week 14,Visually normal,1,0.386389,2.588065395236407
+hairfollicle21-d1-w17,Hair follicle,Week 17,Papilloma,11,6.552297,1.6788005793998653
+hairfollicle21-d1-w8,Hair follicle,Week 8,Visually normal,43,8.959394,4.7994317472811225
+hairfollicle21-d2-w17,Hair follicle,Week 17,Papilloma,0,1.773555,0
+hairfollicle21-d2-w8,Hair follicle,Week 8,Papilloma,13,3.856618,3.370829052812594
+hairfollicle21-d3-w17,Hair follicle,Week 17,Visually normal,1,0.734405,1.361646502951369
+hairfollicle21-d3-w8,Hair follicle,Week 8,Visually normal,3,2.538416,1.1818393833004521
+hairfollicle21-d4-w14,Hair follicle,Week 14,Visually normal,2,0.87896,2.27541640120142
+hairfollicle21-d4-w17,Hair follicle,Week 17,Visually normal,20,6.847142,2.9209267165775152
+hairfollicle21-d4-w8,Hair follicle,Week 8,Visually normal,9,4.031194,2.232589153486535
+hairfollicle21-d5-w17,Hair follicle,Week 17,Papilloma,2,0.732307,2.7310950188923497
+hairfollicle21-d6-w17,Hair follicle,Week 17,Papilloma,11,6.714743,1.6381863013967921
+hairfollicle21-d7-w17,Hair follicle,Week 17,Visually normal,0,0.487497,0
+hairfollicle21-e1-w14,Hair follicle,Week 14,Papilloma,15,6.83134,2.1957624711989157
+hairfollicle21-e1-w17,Hair follicle,Week 17,Papilloma,8,1.976902,4.046735751190499
+hairfollicle21-e2-w14,Hair follicle,Week 14,Papilloma,24,8.678968,2.765305736811105
+hairfollicle21-e2-w17,Hair follicle,Week 17,Papilloma,1,0.09647,10.36591686534674
+hairfollicle21-e2-w8,Hair follicle,Week 8,Papilloma,9,4.144713,2.171441062384778
+hairfollicle21-e3-w14,Hair follicle,Week 14,SCC,19,6.401981,2.9678313634482825
+hairfollicle21-e3-w17,Hair follicle,Week 17,SCC,5,1.726768,2.8955829619265585
+hairfollicle21-e3-w8,Hair follicle,Week 8,SCC,5,3.061262,1.6333133198007879
+hairfollicle21-e4-w14,Hair follicle,Week 14,SCC,18,13.537542,1.329635764010926
+hairfollicle21-e4-w17,Hair follicle,Week 17,SCC,1,1.130164,0.8848273347938883
+hairfollicle21-e4-w8,Hair follicle,Week 8,SCC,4,2.535779,1.5774245310809816
+hairfollicle21-e5-w17,Hair follicle,Week 17,Visually normal,20,5.085448,3.9327901887896597
+hairfollicle21-e6-w17,Hair follicle,Week 17,Visually normal,4,2.372833,1.6857486388633334
+hairfollicle21-e7-w17,Hair follicle,Week 17,Visually normal,0,0.210351,0
+hairfollicle21-f1-w14,Hair follicle,Week 14,Papilloma,21,8.368855,2.5093038414454547
+hairfollicle21-f1-w17,Hair follicle,Week 17,Visually normal,4,1.765464,2.2656933248143267
+hairfollicle21-f1-w8,Hair follicle,Week 8,Papilloma,32,5.118998,6.251223383951312
+hairfollicle21-f2-w14,Hair follicle,Week 14,Visually normal,11,6.596567,1.6675340370225906
+hairfollicle21-f2-w17,Hair follicle,Week 17,Visually normal,10,2.140865,4.671009148171417
+hairfollicle21-f3-w17,Hair follicle,Week 17,SCC,3,1.892017,1.5856094316277285
+hairfollicle21-f3-w8,Hair follicle,Week 8,SCC,3,2.421663,1.2388181179627387
+hairfollicle21-f4-w17,Hair follicle,Week 17,SCC,22,7.08742,3.1040914747538597
+hairfollicle21-f4-w8,Hair follicle,Week 8,SCC,2,1.019368,1.9619999843040001
+hairfollicle21-f5-w17,Hair follicle,Week 17,Visually normal,6,2.300146,2.60853006722182
+hairfollicle21-f6-w14,Hair follicle,Week 14,Visually normal,2,3.079898,0.6493721545323904
+hairfollicle21-f6-w17,Hair follicle,Week 17,Visually normal,22,4.406615,4.992494238775114
+hairfollicle21-f6-w8,Hair follicle,Week 8,Visually normal,24,3.740226,6.416724550869386
+hairfollicle21-f7-w14,Hair follicle,Week 14,Visually normal,3,0.883633,3.3950746520331405
+hairfollicle21-f7-w17,Hair follicle,Week 17,Visually normal,5,0.261405,19.12740766243951
+hairfollicle21-f7-w8,Hair follicle,Week 8,Visually normal,2,0.482424,4.1457307264978525
+hairfollicle21-g1-w14,Hair follicle,Week 14,Visually normal,9,3.742096,2.4050692446158517
+hairfollicle21-g1-w17,Hair follicle,Week 17,Visually normal,8,3.03108,2.6393232775116457
+hairfollicle21-g1-w8,Hair follicle,Week 8,Visually normal,16,5.031802,3.179775356820479
+hairfollicle21-g2-w14,Hair follicle,Week 14,Visually normal,6,2.329644,2.5755008061317524
+hairfollicle21-g2-w17,Hair follicle,Week 17,Visually normal,7,2.7711,2.526072678719642
+hairfollicle21-g2-w8,Hair follicle,Week 8,Visually normal,2,0.828405,2.414278040330515
+hairfollicle21-g3-w14,Hair follicle,Week 14,Visually normal,7,2.011044,3.480779137602161
+hairfollicle21-g3-w17,Hair follicle,Week 17,SCC,8,5.249178,1.5240481462049869
+hairfollicle21-g3-w8,Hair follicle,Week 8,Visually normal,0,0.721269,0
+hairfollicle21-g4-w14,Hair follicle,Week 14,Visually normal,9,0.624356,14.41485306459776
+hairfollicle21-g4-w17,Hair follicle,Week 17,SCC,6,1.049966,5.714470754291091
+hairfollicle21-g4-w8,Hair follicle,Week 8,Visually normal,2,2.359885,0.8474989247357393
+hairfollicle21-g5-w17,Hair follicle,Week 17,Visually normal,4,2.175575,1.8385943945853396
+hairfollicle21-g6-w17,Hair follicle,Week 17,Visually normal,3,0.763519,3.929175305395151
+hairfollicle21-g6-w8,Hair follicle,Week 8,Visually normal,2,0.588555,3.3981531037880908
+hairfollicle21-g7-w14,Hair follicle,Week 14,Visually normal,0,0.574904,0
+hairfollicle21-g7-w17,Hair follicle,Week 17,Visually normal,0,0.742954,0
+hairfollicle21-g7-w8,Hair follicle,Week 8,Visually normal,0,0.442895,0
+skin21-b5-w19,Skin,Skin 19,Visually normal,5,13.828287,0.36157768492944936
+skin21-b6-w19,Skin,Skin 19,SCC,4,14.991408,0.26681950087676887
+skin21-b7-w19,Skin,Skin 19,SCC,9,12.916857,0.6967639263947878
+skin21-c5-w19,Skin,Skin 19,Visually normal,8,14.476041,0.5526372852909162
+skin21-c6-w19,Skin,Skin 19,Visually normal,2,7.706756,0.25951256274364987
+skin21-c7-w19,Skin,Skin 19,SCC,2,7.957113,0.25134744221930744
+skin21-d1-w19,Skin,Skin 19,Visually normal,8,14.023003,0.5704912136152293
+skin21-d2-w19,Skin,Skin 19,Papilloma,3,8.618273,0.34809758289160714
+skin21-d3-w19,Skin,Skin 19,Visually normal,5,15.925932,0.3139533686317385
+skin21-d4-w19,Skin,Skin 19,Visually normal,5,15.251175,0.32784359237894783
+skin21-e1-w19,Skin,Skin 19,Papilloma,1,7.519725,0.13298358650083614
+skin21-e2-w19,Skin,Skin 19,Papilloma,4,7.364843,0.5431208784762961
+skin21-e3-w19,Skin,Skin 19,Visually normal,2,7.499677,0.26667815160572916
+skin21-e4-w19,Skin,Skin 19,SCC,2,7.89452,0.25334029174668
+skin21-f1-w19,Skin,Skin 19,Papilloma,4,13.946935,0.2868013653178996
+skin21-f2-w19,Skin,Skin 19,Visually normal,0,3.761058,0
+skin21-f3-w19,Skin,Skin 19,Visually normal,1,7.692878,0.12999036251452317
+skin21-f4-w19,Skin,Skin 19,SCC,0,3.920519,0
+skin21-f6-w19,Skin,Skin 19,Visually normal,0,4.063662,0
+skin21-f7-w19,Skin,Skin 19,Visually normal,0,4.200418,0
+skin21-g1-w19,Skin,Skin 19,Visually normal,6,11.43858,0.5245406335401772
+skin21-g2-w19,Skin,Skin 19,Visually normal,0,4.094881,0
+skin21-g3-w19,Skin,Skin 19,Visually normal,6,14.270391,0.42045098834362704
+skin21-g4-w19,Skin,Skin 19,SCC,5,13.57167,0.3684144987315489
+skin21-g6-w19,Skin,Skin 19,Visually normal,0,3.969806,0
+skin21-g7-w19,Skin,Skin 19,Visually normal,0,4.027308,0
+skin21-pp-bc-w19,Skin,Skin 19,SCC,3,13.247087,0.22646488243037885
+skin21-pp-de-w19,Skin,Skin 19,SCC,5,12.383336,0.40376841910774286

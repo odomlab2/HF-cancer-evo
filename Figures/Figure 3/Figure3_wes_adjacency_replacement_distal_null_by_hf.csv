@@ -1,0 +1,11 @@
+hf_sample_name,n_adj,n_distal,observed_adj_max,distal_wr_null_median,distal_wr_null_q025,distal_wr_null_q975,effect_vs_null_median,p_one_sided
+hairfollicle03-f6-t2,6,1,3,1,1,1,2,9.999000099990002e-5
+hairfollicle04-c2-t3,1,6,113,3,1,109,110,9.999000099990002e-5
+hairfollicle04-c4-t3,3,4,93,92,3,92,1,9.999000099990002e-5
+hairfollicle04-c5-t3,5,2,129,99,3,99,30,9.999000099990002e-5
+hairfollicle04-c6-t3,4,3,102,91,90,91,11,9.999000099990002e-5
+hairfollicle05-b1-t3,1,7,56,5,2,52,51,9.999000099990002e-5
+hairfollicle05-b5-t3,4,4,79,84,77,84,-5,0.9372062793720628
+hairfollicle05-c6,5,3,14,14,12,14,0,0.8664133586641336
+hairfollicle05-c7-t2,4,4,86,71,68,71,15,9.999000099990002e-5
+hairfollicle05-e5-t3,1,7,93,5,2,95,88,0.2853714628537146

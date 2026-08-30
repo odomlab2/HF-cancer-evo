@@ -1,0 +1,2 @@
+n_hf_samples,n_resamples,T_obs,T_null_median,T_null_q025,T_null_q975,effect_vs_null_median,p_one_sided
+10,10000,768,552,373,698,216,9.999000099990002e-5

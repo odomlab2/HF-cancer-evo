@@ -1,0 +1,31 @@
+gene_symbol,gene_label,candidate_group,human_symbols,has_human_orthologue,n_samples_mutated,mean_summed_vaf,mean_vaf,variance_summed_vaf,max_summed_vaf,n_mutations
+Cep170b,Cep170b / CEP170B,Initiation (I),CEP170B,TRUE,1,0.053,0.053,NA,0.053,1
+Ube2d2a,Ube2d2a / UBE2D2,Initiation (I),UBE2D2,TRUE,1,0.053,0.053,NA,0.053,1
+Ophn1,Ophn1 / OPHN1,Initiation (I),OPHN1,TRUE,2,0.053500000000000006,0.053500000000000006,3.1250000000000006e-4,0.066,2
+Dennd1c,Dennd1c / DENND1C,Initiation (I),DENND1C,TRUE,1,0.055,0.055,NA,0.055,1
+Rasd2,Rasd2 / RASD2,Initiation (I),RASD2,TRUE,1,0.055,0.055,NA,0.055,1
+Folh1,Folh1 / FOLH1,Initiation (I),FOLH1,TRUE,2,0.057499999999999996,0.057499999999999996,4.050000000000001e-5,0.062,2
+Bmper,Bmper / BMPER,Initiation (I),BMPER,TRUE,1,0.061,0.061,NA,0.061,1
+Srgap1,Srgap1 / SRGAP1,Initiation (I),SRGAP1,TRUE,1,0.063,0.063,NA,0.063,1
+Xirp2,Xirp2 / XIRP2,Initiation (I),XIRP2,TRUE,1,0.063,0.063,NA,0.063,1
+Cldn18,Cldn18 / CLDN18,Initiation (I),CLDN18,TRUE,1,0.065,0.065,NA,0.065,1
+Plce1,Plce1 / PLCE1,Initiation (I),PLCE1,TRUE,1,0.065,0.065,NA,0.065,1
+Ppp1r14d,Ppp1r14d / PPP1R14D,Initiation (I),PPP1R14D,TRUE,1,0.067,0.067,NA,0.067,1
+Tmprss9,Tmprss9 / TMPRSS9,Initiation (I),TMPRSS9,TRUE,1,0.071,0.071,NA,0.071,1
+Otog,Otog / OTOG,Initiation (I),OTOG,TRUE,1,0.072,0.072,NA,0.072,1
+Rad51b,Rad51b / RAD51B,Initiation (I),RAD51B,TRUE,1,0.073,0.073,NA,0.073,1
+Aatk,Aatk / AATK,Initiation (I),AATK,TRUE,1,0.077,0.077,NA,0.077,1
+Ezh1,Ezh1 / EZH1,Initiation (I),EZH1,TRUE,1,0.077,0.077,NA,0.077,1
+Usp3,Usp3 / USP3,Initiation (I),USP3,TRUE,1,0.082,0.082,NA,0.082,1
+Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,TRUE,1,0.083,0.083,NA,0.083,1
+Spats2l,Spats2l / SPATS2L,Initiation (I),SPATS2L,TRUE,1,0.083,0.083,NA,0.083,1
+Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,TRUE,1,0.097,0.097,NA,0.097,1
+Pkp4,Pkp4 / PKP4,Initiation (I),PKP4,TRUE,1,0.097,0.097,NA,0.097,1
+Arid2,Arid2 / ARID2,I+P,ARID2,TRUE,1,0.061,0.061,NA,0.061,1
+Pard3,Pard3 / PARD3,Predisposition,PARD3,TRUE,2,0.0495,0.0495,3.645000000000001e-4,0.063,2
+Huwe1,Huwe1 / HUWE1,Predisposition,HUWE1,TRUE,2,0.0505,0.0505,6.845000000000002e-4,0.069,2
+Ptch1,Ptch1 / PTCH1,Predisposition,PTCH1,TRUE,1,0.067,0.067,NA,0.067,1
+Erbb2,Erbb2 / ERBB2,Predisposition,ERBB2,TRUE,1,0.068,0.068,NA,0.068,1
+Csmd2,Csmd2 / CSMD2,Predisposition,CSMD2,TRUE,2,0.0715,0.0715,7.605e-4,0.091,2
+Lrp1b,Lrp1b / LRP1B,Predisposition,LRP1B,TRUE,1,0.075,0.075,NA,0.075,1
+Psme4,Psme4 / PSME4,Predisposition,PSME4,TRUE,2,0.079,0.079,8.820000000000001e-4,0.1,2

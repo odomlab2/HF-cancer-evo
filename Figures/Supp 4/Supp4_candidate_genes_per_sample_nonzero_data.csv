@@ -1,0 +1,30 @@
+sample_order,sample_uid,sample_name,dataset,tissue,category,n_candidate_genes_mutated
+1,WES::hairfollicle04-c6-t3,hairfollicle04-c6-t3,WES,Hair follicle,Macr. normal,1
+2,WES::hairfollicle05-b5-t3,hairfollicle05-b5-t3,WES,Hair follicle,Macr. normal,1
+3,TES::hairfollicle21-b5-w17,hairfollicle21-b5-w17,TES,Hair follicle,Macr. normal,1
+4,TES::hairfollicle21-c1-w17,hairfollicle21-c1-w17,TES,Hair follicle,Macr. normal,1
+5,TES::hairfollicle21-c5-w14,hairfollicle21-c5-w14,TES,Hair follicle,Macr. normal,1
+6,TES::hairfollicle21-c5-w17,hairfollicle21-c5-w17,TES,Hair follicle,Macr. normal,1
+7,TES::hairfollicle21-f6-w8,hairfollicle21-f6-w8,TES,Hair follicle,Macr. normal,1
+8,TES::hairfollicle21-g3-w14,hairfollicle21-g3-w14,TES,Hair follicle,Macr. normal,1
+9,WES::skin04-c6-t2,skin04-c6-t2,WES,Skin,Macr. normal,1
+10,WES::skin05-b1-t2,skin05-b1-t2,WES,Skin,Macr. normal,1
+11,WES::hairfollicle05-c7-t2,hairfollicle05-c7-t2,WES,Hair follicle,Macr. normal,2
+12,WES::hairfollicle05-e5-t3,hairfollicle05-e5-t3,WES,Hair follicle,Macr. normal,2
+13,TES::hairfollicle21-b5-w8,hairfollicle21-b5-w8,TES,Hair follicle,Macr. normal,2
+14,TES::hairfollicle21-f6-w17,hairfollicle21-f6-w17,TES,Hair follicle,Macr. normal,2
+15,TES::hairfollicle21-d1-w8,hairfollicle21-d1-w8,TES,Hair follicle,Macr. normal,4
+16,TES::hairfollicle21-b6-w14,hairfollicle21-b6-w14,TES,Hair follicle,SCC,1
+17,TES::hairfollicle21-b7-w8,hairfollicle21-b7-w8,TES,Hair follicle,SCC,1
+18,TES::hairfollicle21-e3-w17,hairfollicle21-e3-w17,TES,Hair follicle,SCC,1
+19,TES::skin21-pp-bc-w19,skin21-pp-bc-w19,TES,Skin,SCC,1
+20,TES::hairfollicle21-c6-w14,hairfollicle21-c6-w14,TES,Hair follicle,SCC,2
+21,TES::hairfollicle21-f4-w17,hairfollicle21-f4-w17,TES,Hair follicle,SCC,2
+22,TES::hairfollicle21-e3-w14,hairfollicle21-e3-w14,TES,Hair follicle,SCC,3
+23,WES::skin05-b6,skin05-b6,WES,Skin,Papilloma,1
+24,WES::hairfollicle04-c2-t3,hairfollicle04-c2-t3,WES,Hair follicle,Papilloma,5
+25,WES::hairfollicle04-c4-t3,hairfollicle04-c4-t3,WES,Hair follicle,Papilloma,6
+26,WES::skin04-c2-t2,skin04-c2-t2,WES,Skin,Papilloma,6
+27,WES::skin04-c4-t2,skin04-c4-t2,WES,Skin,Papilloma,7
+28,WES::hairfollicle04-c5-t3,hairfollicle04-c5-t3,WES,Hair follicle,Papilloma,14
+29,WES::skin04-c5-t2,skin04-c5-t2,WES,Skin,Papilloma,19

@@ -1,0 +1,2 @@
+analysis_family,direct_response_available,analysis_performed,available_related_attributes,interpretation
+Treatment response,FALSE,FALSE,"DFCI: RADIATION_THERAPY, DFS_STATUS, PFS_MONTHS; HGSC: PRIOR_TREATMENT, RADIATION_OR_CHEMOTHERAPY, EFS_STATUS","No cSCC study supplies a direct response, responder, or RECIST endpoint. Treatment exposure and recurrence/progression are not relabelled as treatment response."

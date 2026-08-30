@@ -1,0 +1,134 @@
+sample_name,time,input_conc,treatment,tissue
+hairfollicle21-e1-w8,Week 8,23.63,DT,Hair follicle
+hairfollicle21-f2-w8,Week 8,140.25,DT,Hair follicle
+hairfollicle21-f4-w8,Week 8,22.95,DT,Hair follicle
+hairfollicle21-f6-w8,Week 8,28.73,DT,Hair follicle
+hairfollicle21-f7-w8,Week 8,19.89,DT,Hair follicle
+hairfollicle21-g2-w8,Week 8,139.06,DT,Hair follicle
+hairfollicle21-g6-w8,Week 8,15.011,DT,Hair follicle
+hairfollicle21-g7-w8,Week 8,20.91,DT,Hair follicle
+hairfollicle19-A3_Ac-w19,Week 19,4.063,Acetone,Hair follicle
+hairfollicle19-A4_Ac-w19,Week 19,11.118,Acetone,Hair follicle
+hairfollicle19-B3_Ac-w19,Week 19,8.483,Acetone,Hair follicle
+hairfollicle19-B4_Ac-w19,Week 19,7.718,Acetone,Hair follicle
+hairfollicle21-e1-w19,Week 19,17.85,DT,Hair follicle
+hairfollicle21-f2-w19,Week 19,15.283,DT,Hair follicle
+hairfollicle21-f4-w19,Week 19,46.41,DT,Hair follicle
+hairfollicle21-f6-w19,Week 19,18.87,DT,Hair follicle
+hairfollicle21-b5-w8,Week 8,22.44,DT,Hair follicle
+hairfollicle21-b6-w8,Week 8,23.97,DT,Hair follicle
+hairfollicle21-b7-w8,Week 8,22.95,DT,Hair follicle
+hairfollicle21-c5-w8,Week 8,29.07,DT,Hair follicle
+hairfollicle21-fc6-w8,Week 8,25.16,DT,Hair follicle
+hairfollicle21-c7-w8,Week 8,21.42,DT,Hair follicle
+hairfollicle21-d1-w8,Week 8,8.523,DT,Hair follicle
+hairfollicle21-d2-w8,Week 8,19.04,DT,Hair follicle
+hairfollicle21-d3-w8,Week 8,18.19,DT,Hair follicle
+hairfollicle21-d4-w8,Week 8,13.753,DT,Hair follicle
+hairfollicle21-e2-w8,Week 8,22.95,DT,Hair follicle
+hairfollicle21-e3-w8,Week 8,18.87,DT,Hair follicle
+hairfollicle21-e4-w8,Week 8,14.331,DT,Hair follicle
+hairfollicle21-f1-w8,Week 8,20.91,DT,Hair follicle
+hairfollicle21-f3-w8,Week 8,19.04,DT,Hair follicle
+hairfollicle21-g1-w8,Week 8,17.34,DT,Hair follicle
+hairfollicle21-g3-w8,Week 8,15.402,DT,Hair follicle
+hairfollicle21-g4-w8,Week 8,22.1,DT,Hair follicle
+hairfollicle21-e1-w14,Week 14,27.2,DT,Hair follicle
+hairfollicle21-e1-w17,Week 17,25.67,DT,Hair follicle
+hairfollicle21-f7-w19,Week 19,33.49,DT,Hair follicle
+hairfollicle21-f2-w14,Week 14,28.22,DT,Hair follicle
+hairfollicle21-f2-w17,Week 17,24.99,DT,Hair follicle
+hairfollicle21-g2-w19,Week 19,21.93,DT,Hair follicle
+hairfollicle21-f4-w17,Week 17,29.58,DT,Hair follicle
+hairfollicle21-g6-w19,Week 19,17.34,DT,Hair follicle
+hairfollicle21-f6-w14,Week 14,29.75,DT,Hair follicle
+hairfollicle21-f6-w17,Week 17,34.34,DT,Hair follicle
+hairfollicle21-g7-w19,Week 19,20.06,DT,Hair follicle
+hairfollicle21-f7-w14,Week 14,26.52,DT,Hair follicle
+hairfollicle21-f7-w17,Week 17,26.69,DT,Hair follicle
+liver19-ac-w19,Week 19,175,Acetone,Liver
+hairfollicle21-g2-w14,Week 14,17.51,DT,Hair follicle
+hairfollicle21-g2-w17,Week 17,15.827,DT,Hair follicle
+liver21-w19,Week 19,136.5,DT,Liver
+hairfollicle21-g6-w14,Week 14,28.05,DT,Hair follicle
+hairfollicle21-g6-w17,Week 17,22.1,DT,Hair follicle
+hairfollicle21-g7-w14,Week 14,23.63,DT,Hair follicle
+hairfollicle21-g7-w17,Week 17,28.05,DT,Hair follicle
+skin19-ac-a3-w19,Week 19,204,Acetone,Skin
+skin19-ac-a4-w19,Week 19,151.2,Acetone,Skin
+hairfollicle21-b5-w14,Week 14,25.5,DT,Hair follicle
+hairfollicle21-b6-w14,Week 14,15.334,DT,Hair follicle
+hairfollicle21-b7-w14,Week 14,11.356,DT,Hair follicle
+hairfollicle21-c5-w14,Week 14,16.303,DT,Hair follicle
+hairfollicle21-c6-w14,Week 14,19.72,DT,Hair follicle
+hairfollicle21-c7-w14,Week 14,16.082,DT,Hair follicle
+hairfollicle21-d1-w14,Week 14,12.206,DT,Hair follicle
+hairfollicle21-d2-w14,Week 14,27.37,DT,Hair follicle
+hairfollicle21-d3-w14,Week 14,19.55,DT,Hair follicle
+hairfollicle21-d4-w14,Week 14,28.73,DT,Hair follicle
+hairfollicle21-e2-w14,Week 14,26.69,DT,Hair follicle
+hairfollicle21-e3-w14,Week 14,21.42,DT,Hair follicle
+hairfollicle21-e4-w14,Week 14,21.25,DT,Hair follicle
+hairfollicle21-f1-w14,Week 14,21.59,DT,Hair follicle
+hairfollicle21-g1-w14,Week 14,24.31,DT,Hair follicle
+hairfollicle21-g3-w14,Week 14,18.53,DT,Hair follicle
+hairfollicle21-g4-w14,Week 14,18.53,DT,Hair follicle
+hairfollicle21-d2-w17,Week 17,17.68,DT,Hair follicle
+hairfollicle21-e2-w17,Week 17,12.444,DT,Hair follicle
+hairfollicle21-e3-w17,Week 17,11.016,DT,Hair follicle
+hairfollicle21-f3-w17,Week 17,6.681,DT,Hair follicle
+hairfollicle21-e4-w17,Week 17,13.039,DT,Hair follicle
+hairfollicle21-c5-w17,Week 17,13.702,DT,Hair follicle
+hairfollicle21-b6-w17,Week 17,11.968,DT,Hair follicle
+hairfollicle21-d6-w17,Week 17,21.93,DT,Hair follicle
+hairfollicle21-b7-w17,Week 17,12.563,DT,Hair follicle
+hairfollicle21-c7-w17,Week 17,6.851,DT,Hair follicle
+hairfollicle21-d7-w17,Week 17,11.475,DT,Hair follicle
+skin19-ac-b3-w19,Week 19,158,Acetone,Skin
+skin19-ac-b4-w19,Week 19,216,Acetone,Skin
+Skin21_b5_w19,Week 19,177,DT,Skin
+Skin21_b6_w19,Week 19,160,DT,Skin
+Skin21_b7_w19,Week 19,224,DT,Skin
+hairfollicle21-d1-w17,Week 17,38.4,DT,Hair follicle
+hairfollicle21-c6-w17,Week 17,3.502,DT,Hair follicle
+hairfollicle21-c1-w17,Week 17,22.94,DT,Hair follicle
+hairfollicle21-f1-w17,Week 17,11.611,DT,Hair follicle
+hairfollicle21-g1-w17,Week 17,3.4,DT,Hair follicle
+hairfollicle21-c2-w17,Week 17,7.021,DT,Hair follicle
+hairfollicle21-c3-w17,Week 17,8.381,DT,Hair follicle
+hairfollicle21-d3-w17,Week 17,12.257,DT,Hair follicle
+hairfollicle21-g3-w17,Week 17,9.027,DT,Hair follicle
+hairfollicle21-d4-w17,Week 17,18.36,DT,Hair follicle
+hairfollicle21-g4-w17,Week 17,5.491,DT,Hair follicle
+hairfollicle21-b5-w17,Week 17,8.636,DT,Hair follicle
+hairfollicle21-d5-w17,Week 17,6.511,DT,Hair follicle
+hairfollicle21-e5-w17,Week 17,6.987,DT,Hair follicle
+hairfollicle21-f5-w17,Week 17,13.6,DT,Hair follicle
+hairfollicle21-g5-w17,Week 17,4.029,DT,Hair follicle
+hairfollicle21-e6-w17,Week 17,5.508,DT,Hair follicle
+hairfollicle21-e7-w17,Week 17,8.313,DT,Hair follicle
+Skin21_c5_w19,Week 19,150,DT,Skin
+Skin21_d1_w19,Week 19,159,DT,Skin
+Skin21_d3_w19,Week 19,142.5,DT,Skin
+Skin21_d4_w19,Week 19,177,DT,Skin
+Skin21_f1_w19,Week 19,140.4,DT,Skin
+Skin21_g1_w19,Week 19,174,DT,Skin
+Skin21_g3_w19,Week 19,145.2,DT,Skin
+Skin21_g4_w19,Week 19,153,DT,Skin
+Skin21_pp_bc_w19,Week 19,228,DT,Skin
+Skin21_pp_de_w19,Week 19,151.2,DT,Skin
+skin21-c6-w19,Week 19,265,DT,Skin
+skin21-c7-w19,Week 19,223.5,DT,Skin
+skin21-d2-w19,Week 19,189.5,DT,Skin
+skin21-e1-w19,Week 19,183,DT,Skin
+skin21-e2-w19,Week 19,228,DT,Skin
+skin21-e3-w19,Week 19,245,DT,Skin
+skin21-e4-w19,Week 19,202,DT,Skin
+skin21-f2-w19,Week 19,148,DT,Skin
+skin21-f3-w19,Week 19,245,DT,Skin
+skin21-f4-w19,Week 19,178.5,DT,Skin
+skin21-f6-w19,Week 19,194,DT,Skin
+skin21-f7-w19,Week 19,160.5,DT,Skin
+skin21-g2-w19,Week 19,149.5,DT,Skin
+skin21-g6-w19,Week 19,114.8,DT,Skin
+skin21-g7-w19,Week 19,155.4,DT,Skin

@@ -1,0 +1,10 @@
+gene_symbol,codon_position,amino_acid_label,mutation,morphology,n_samples,n_mutations,tissues,datasets,sample_names,mutation_ids,protein_positions,amino_acids,consequences,mean_gt_AF,max_gt_AF
+Hras,61,Q61H,Hras::Q61H,Morphologically normal,1,1,Skin,TES,skin21-d1-w19,7:141192549:T:A,61/189,Q/H,missense_variant,0.001615,0.001615
+Hras,61,Q61H,Hras::Q61H,SCC,1,1,Skin,TES,skin21-b7-w19,7:141192549:T:A,61/189,Q/H,missense_variant,0.001538,0.001538
+Hras,61,Q61L,Hras::Q61L,Morphologically normal,5,1,Skin,TES; WES,skin05-e5-t2; skin21-b5-w19; skin21-c6-w19; skin21-d3-w19; skin21-e3-w19,7:141192550:T:A,61/189,Q/L,missense_variant,0.0194104,0.091
+Hras,61,Q61L,Hras::Q61L,Papilloma,5,1,Hair follicle; Skin,TES; WES,hairfollicle21-d1-w17; skin04-c5-t2; skin21-d2-w19; skin21-e1-w19; skin21-e2-w19,7:141192550:T:A,61/189,Q/L,missense_variant,0.095621,0.418
+Hras,61,Q61L,Hras::Q61L,SCC,5,1,Skin,TES,skin21-b6-w19; skin21-b7-w19; skin21-c7-w19; skin21-pp-bc-w19; skin21-pp-de-w19,7:141192550:T:A,61/189,Q/L,missense_variant,0.001588,0.001726
+Hras,110,H110L,Hras::H110L,Morphologically normal,1,1,Skin,TES,skin21-b5-w19,7:141192302:T:A,110/119,H/L,missense_variant&NMD_transcript_variant,0.002124,0.002124
+Kras,187,V187I,Kras::V187I,Morphologically normal,1,1,Hair follicle,TES,hairfollicle21-f6-w8,6:145225089:C:T,187/189,V/I,missense_variant,0.146,0.146
+Nras,61,Q61L,Nras::Q61L,Morphologically normal,1,1,Skin,TES,skin21-c5-w19,3:103060271:A:T,61/189,Q/L,missense_variant,0.001737,0.001737
+Nras,61,Q61L,Nras::Q61L,Papilloma,1,1,Skin,TES,skin21-f1-w19,3:103060271:A:T,61/189,Q/L,missense_variant,0.00168,0.00168

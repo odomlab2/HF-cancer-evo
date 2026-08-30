@@ -1,0 +1,4 @@
+candidate_group,n_genes,observed_median_gene_mean_VAF,observed_mean_gene_mean_VAF,observed_IQR_gene_mean_VAF,recurrence_profile
+All candidates,30,0.067,0.06815,0.018125000000000002,24 genes with 1 skin samples; 6 genes with 2 skin samples
+Initiation-only,22,0.066,0.06922727272727272,0.018625000000000003,20 genes with 1 skin samples; 2 genes with 2 skin samples
+Predisposition-only,7,0.068,0.06578571428571428,0.014499999999999992,3 genes with 1 skin samples; 4 genes with 2 skin samples

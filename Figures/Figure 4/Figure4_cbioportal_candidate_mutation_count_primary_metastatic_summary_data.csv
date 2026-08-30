@@ -1,0 +1,5 @@
+analysis_scope,analysis_scope_order,endpoint_group,n_samples,n_samples_with_candidate_mutation,candidate_mutation_count_min,candidate_mutation_count_q25,candidate_mutation_count_median,candidate_mutation_count_q75,candidate_mutation_count_max
+Pooled,1,Primary,115,94,0,2,5,8,49
+Pooled,1,Metastasis,61,50,0,2,5,15,87
+HGSC only,2,Primary,32,29,0,5,8.5,15.25,49
+HGSC only,2,Metastasis,7,7,3,6.5,8,10.5,11

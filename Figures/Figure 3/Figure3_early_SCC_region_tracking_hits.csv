@@ -1,0 +1,138 @@
+mouse,grid,early_sample_name,early_timepoint,early_time_num,mutation_id,later_sample_name,later_timepoint,later_time_num,later_compartment,later_category,later_gt_AF,later_gt_DP,later_coverage,later_callable_mbp
+21,b6,hairfollicle21-b6-w8,Week 8,8,11:3198745:T:TA,hairfollicle21-b6-w17,Week 17,17,HF,SCC,0.081,52,57.82,2.239444
+21,b6,hairfollicle21-b6-w8,Week 8,8,13:21722370:G:C,hairfollicle21-b6-w14,Week 14,14,HF,SCC,0.333,11,39.65,2.707874
+21,b6,hairfollicle21-b6-w8,Week 8,8,13:21722374:C:A,hairfollicle21-b6-w14,Week 14,14,HF,SCC,0.333,11,39.65,2.707874
+21,b6,hairfollicle21-b6-w8,Week 8,8,15:75086281:T:G,hairfollicle21-b6-w14,Week 14,14,HF,SCC,0.298,66,39.65,2.707874
+21,b6,hairfollicle21-b6-w8,Week 8,8,15:75086281:T:G,hairfollicle21-b6-w17,Week 17,17,HF,SCC,0.278,42,57.82,2.239444
+21,b6,hairfollicle21-b6-w8,Week 8,8,15:75086281:T:G,skin21-b6-w19,Skin,19,Skin,SCC,0.083,10,7024.02,14.991408
+21,b6,hairfollicle21-b6-w8,Week 8,8,15:75086887:G:A,hairfollicle21-b6-w17,Week 17,17,HF,SCC,0.08,125,57.82,2.239444
+21,b6,hairfollicle21-b6-w8,Week 8,8,17:39843788:G:C,skin21-b6-w19,Skin,19,Skin,SCC,0.078,11,7024.02,14.991408
+21,b6,hairfollicle21-b6-w8,Week 8,8,17:39847454:T:C,hairfollicle21-b6-w14,Week 14,14,HF,SCC,0.084,108,39.65,2.707874
+21,b6,hairfollicle21-b6-w8,Week 8,8,17:39848437:C:T,hairfollicle21-b6-w17,Week 17,17,HF,SCC,0.075,72,57.82,2.239444
+21,b6,hairfollicle21-b6-w8,Week 8,8,17:39848437:C:T,skin21-b6-w19,Skin,19,Skin,SCC,0.032,27,7024.02,14.991408
+21,b6,hairfollicle21-b6-w8,Week 8,8,2:35819058:GCCCTCCCCTGCCCTGCCTTGCCCTGCCCTCCCCTC:G,skin21-b6-w19,Skin,19,Skin,SCC,0.042,23,7024.02,14.991408
+21,b6,hairfollicle21-b6-w8,Week 8,8,5:146261102:T:C,hairfollicle21-b6-w14,Week 14,14,HF,SCC,0.063,116,39.65,2.707874
+21,b6,hairfollicle21-b6-w8,Week 8,8,8:86288406:C:T,skin21-b6-w19,Skin,19,Skin,SCC,0.077,11,7024.02,14.991408
+21,b6,hairfollicle21-b6-w8,Week 8,8,9:3002126:T:G,skin21-b6-w19,Skin,19,Skin,SCC,0.034,33,7024.02,14.991408
+21,b7,hairfollicle21-b7-w8,Week 8,8,11:109012015:A:G,hairfollicle21-b7-w14,Week 14,14,HF,SCC,0.65,47,6.23,0.317452
+21,b7,hairfollicle21-b7-w8,Week 8,8,17:39843645:CGA:C,skin21-b7-w19,Skin,19,Skin,SCC,0.045,19,5853.57,12.916857
+21,b7,hairfollicle21-b7-w8,Week 8,8,17:39847081:T:C,hairfollicle21-b7-w14,Week 14,14,HF,SCC,0.71,90,6.23,0.317452
+21,b7,hairfollicle21-b7-w8,Week 8,8,5:146261102:T:C,hairfollicle21-b7-w14,Week 14,14,HF,SCC,0.759,28,6.23,0.317452
+21,c6,hairfollicle21-c6-w8,Week 8,8,11:3191599:TA:AT,hairfollicle21-c6-w17,Week 17,17,HF,SCC,0.062,36,28.88,0.720408
+21,c6,hairfollicle21-c6-w8,Week 8,8,11:3196963:G:A,hairfollicle21-c6-w17,Week 17,17,HF,SCC,0.139,42,28.88,0.720408
+21,c6,hairfollicle21-c6-w8,Week 8,8,11:3198745:T:TA,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.057,116,287.54,39.016084
+21,c6,hairfollicle21-c6-w8,Week 8,8,11:3198745:T:TA,skin21-c6-w19,Skin,19,Skin,Visually normal,0.035,23,3819.7,7.706756
+21,c6,hairfollicle21-c6-w8,Week 8,8,15:75086281:T:G,hairfollicle21-c6-w17,Week 17,17,HF,SCC,0.81,20,28.88,0.720408
+21,c6,hairfollicle21-c6-w8,Week 8,8,15:75086281:T:G,skin21-c6-w19,Skin,19,Skin,Visually normal,0.083,10,3819.7,7.706756
+21,c6,hairfollicle21-c6-w8,Week 8,8,15:98863443:AGGAGGTGAGGCAGGAGAGTCCTCGGGTGGTGGGGACAGTCGGGAGGCTTCAGGT:A,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.036,376,287.54,39.016084
+21,c6,hairfollicle21-c6-w8,Week 8,8,17:39843752:A:G,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.035,668,287.54,39.016084
+21,c6,hairfollicle21-c6-w8,Week 8,8,17:39843752:A:G,skin21-c6-w19,Skin,19,Skin,Visually normal,0.058,16,3819.7,7.706756
+21,c6,hairfollicle21-c6-w8,Week 8,8,17:39848385:C:CCCCCTCCCCCTCCCCCT,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.016,730,287.54,39.016084
+21,c6,hairfollicle21-c6-w8,Week 8,8,17:39848437:C:T,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.029,782,287.54,39.016084
+21,c6,hairfollicle21-c6-w8,Week 8,8,17:39848437:C:T,skin21-c6-w19,Skin,19,Skin,Visually normal,0.034,27,3819.7,7.706756
+21,c6,hairfollicle21-c6-w8,Week 8,8,18:19836381:CCTCCTGCTCCTGCTCCTGCTCCTCCTGCTCCTGCTCCTCCTCCTCCTCCTT:C,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.277,29,287.54,39.016084
+21,c6,hairfollicle21-c6-w8,Week 8,8,18:19836381:CCTCCTGCTCCTGCTCCTGCTCCTCCTGCTCCTGCTCCTCCTCCTCCTCCTT:C,hairfollicle21-c6-w17,Week 17,17,HF,SCC,0.637,10,28.88,0.720408
+21,c6,hairfollicle21-c6-w8,Week 8,8,2:181917841:A:G,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.134,576,287.54,39.016084
+21,c6,hairfollicle21-c6-w8,Week 8,8,3:93206387:T:C,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.054,812,287.54,39.016084
+21,c6,hairfollicle21-c6-w8,Week 8,8,3:93219765:T:G,hairfollicle21-c6-w14,Week 14,14,HF,SCC,0.043,442,287.54,39.016084
+21,c7,hairfollicle21-c7-w8,Week 8,8,11:109012015:A:G,hairfollicle21-c7-w14,Week 14,14,HF,SCC,0.765,19,35.5,0.25324
+21,c7,hairfollicle21-c7-w8,Week 8,8,11:109012015:A:G,hairfollicle21-c7-w17,Week 17,17,HF,SCC,0.333,17,21.2,0.743068
+21,c7,hairfollicle21-c7-w8,Week 8,8,15:75085588:G:A,skin21-c7-w19,Skin,19,Skin,SCC,0.065,14,3688.53,7.957113
+21,c7,hairfollicle21-c7-w8,Week 8,8,15:75085595:T:A,skin21-c7-w19,Skin,19,Skin,SCC,0.083,11,3688.53,7.957113
+21,c7,hairfollicle21-c7-w8,Week 8,8,16:57391492:G:A,hairfollicle21-c7-w14,Week 14,14,HF,SCC,0.733,15,35.5,0.25324
+21,c7,hairfollicle21-c7-w8,Week 8,8,16:57391496:A:G,hairfollicle21-c7-w14,Week 14,14,HF,SCC,0.733,14,35.5,0.25324
+21,c7,hairfollicle21-c7-w8,Week 8,8,17:39843645:CGA:C,skin21-c7-w19,Skin,19,Skin,SCC,0.045,19,3688.53,7.957113
+21,c7,hairfollicle21-c7-w8,Week 8,8,17:39847081:T:C,hairfollicle21-c7-w14,Week 14,14,HF,SCC,0.667,60,35.5,0.25324
+21,c7,hairfollicle21-c7-w8,Week 8,8,17:39847081:T:C,hairfollicle21-c7-w17,Week 17,17,HF,SCC,0.276,12,21.2,0.743068
+21,c7,hairfollicle21-c7-w8,Week 8,8,5:146261102:T:C,hairfollicle21-c7-w14,Week 14,14,HF,SCC,0.667,10,35.5,0.25324
+21,c7,hairfollicle21-c7-w8,Week 8,8,8:26467182:GGGGCAGGAGGCAGGGGGCAGTGGGCAGT:G,skin21-c7-w19,Skin,19,Skin,SCC,0.089,11,3688.53,7.957113
+21,e3,hairfollicle21-e3-w8,Week 8,8,15:75086281:T:G,hairfollicle21-e3-w14,Week 14,14,HF,SCC,0.619,19,108.63,6.401981
+21,e3,hairfollicle21-e3-w8,Week 8,8,15:75086281:T:G,hairfollicle21-e3-w17,Week 17,17,HF,SCC,0.556,21,42.16,1.726768
+21,e3,hairfollicle21-e3-w8,Week 8,8,15:75086281:T:G,skin21-e3-w19,Skin,19,Skin,Visually normal,0.083,10,3269.73,7.499677
+21,e3,hairfollicle21-e3-w8,Week 8,8,17:39843645:CGA:C,hairfollicle21-e3-w14,Week 14,14,HF,SCC,0.177,38,108.63,6.401981
+21,e3,hairfollicle21-e3-w8,Week 8,8,17:39843645:CGA:C,hairfollicle21-e3-w17,Week 17,17,HF,SCC,0.178,33,42.16,1.726768
+21,e3,hairfollicle21-e3-w8,Week 8,8,17:39843645:CGA:C,skin21-e3-w19,Skin,19,Skin,Visually normal,0.045,19,3269.73,7.499677
+21,e3,hairfollicle21-e3-w8,Week 8,8,18:58052811:GTGTATCACTGGCAAAGCCTCTCCCAGAGCCTGAGCTGTGCCTACCTATCCTTGCCATTGGGCATGGAATACATACCCACTGTGACAA:G,hairfollicle21-e3-w14,Week 14,14,HF,SCC,0.106,49,108.63,6.401981
+21,e3,hairfollicle21-e3-w8,Week 8,8,3:93211398:G:A,skin21-e3-w19,Skin,19,Skin,Visually normal,0.026,31,3269.73,7.499677
+21,e3,hairfollicle21-e3-w8,Week 8,8,3:93211508:A:T,hairfollicle21-e3-w14,Week 14,14,HF,SCC,0.142,116,108.63,6.401981
+21,e3,hairfollicle21-e3-w8,Week 8,8,3:93213910:C:T,hairfollicle21-e3-w14,Week 14,14,HF,SCC,0.032,183,108.63,6.401981
+21,e4,hairfollicle21-e4-w8,Week 8,8,15:75086281:T:G,hairfollicle21-e4-w17,Week 17,17,HF,SCC,0.417,14,47.62,1.130164
+21,e4,hairfollicle21-e4-w8,Week 8,8,15:75086281:T:G,skin21-e4-w19,Skin,19,Skin,SCC,0.083,10,3921.83,7.89452
+21,e4,hairfollicle21-e4-w8,Week 8,8,15:75086887:G:A,skin21-e4-w19,Skin,19,Skin,SCC,0.014,70,3921.83,7.89452
+21,e4,hairfollicle21-e4-w8,Week 8,8,15:77765601:TCCTGAGCCCACAGCTGGCCCACCTCCTACAGCTGCTGCCCTGAGCCCACAACTGGCCCACCTCCTGCAGCTGCTGC:T,hairfollicle21-e4-w17,Week 17,17,HF,SCC,0.4,20,47.62,1.130164
+21,e4,hairfollicle21-e4-w8,Week 8,8,2:181917841:A:G,hairfollicle21-e4-w14,Week 14,14,HF,SCC,0.17,275,302.55,13.537542
+21,f3,hairfollicle21-f3-w8,Week 8,8,11:3186292:C:T,hairfollicle21-f3-w17,Week 17,17,HF,SCC,0.222,11,54.23,1.892017
+21,f3,hairfollicle21-f3-w8,Week 8,8,15:75086887:G:A,skin21-f3-w19,Skin,19,Skin,Visually normal,0.014,70,3711.66,7.692878
+21,f3,hairfollicle21-f3-w8,Week 8,8,17:39843645:CGA:C,skin21-f3-w19,Skin,19,Skin,Visually normal,0.045,19,3711.66,7.692878
+21,f3,hairfollicle21-f3-w8,Week 8,8,17:39847081:T:C,hairfollicle21-f3-w17,Week 17,17,HF,SCC,0.045,105,54.23,1.892017
+21,f4,hairfollicle21-f4-w8,Week 8,8,2:181917841:A:G,hairfollicle21-f4-w17,Week 17,17,HF,SCC,0.122,59,261.67,7.08742
+21,f4,hairfollicle21-f4-w8,Week 8,8,3:93212894:A:G,hairfollicle21-f4-w17,Week 17,17,HF,SCC,0.044,495,261.67,7.08742
+21,f4,hairfollicle21-f4-w8,Week 8,8,7:38468214:C:T,hairfollicle21-f4-w17,Week 17,17,HF,SCC,0.371,61,261.67,7.08742
+21,f6,hairfollicle21-f6-w8,Week 8,8,11:79386687:G:A,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.174,25,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,11:79463276:G:A,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.267,18,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,11:99792753:A:G,hairfollicle21-f6-w14,Week 14,14,HF,Visually normal,0.167,48,38.21,3.079898
+21,f6,hairfollicle21-f6-w8,Week 8,8,15:75086281:T:G,hairfollicle21-f6-w14,Week 14,14,HF,Visually normal,0.312,16,38.21,3.079898
+21,f6,hairfollicle21-f6-w8,Week 8,8,16:4213394:T:A,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.428,12,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,19:32776067:T:C,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.293,18,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,2:161718430:A:G,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.108,32,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,3:109863468:C:T,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.208,24,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,3:93205672:G:A,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.076,138,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,3:93210628:A:G,hairfollicle21-f6-w14,Week 14,14,HF,Visually normal,0.162,40,38.21,3.079898
+21,f6,hairfollicle21-f6-w8,Week 8,8,3:93211367:C:G,hairfollicle21-f6-w14,Week 14,14,HF,Visually normal,0.087,54,38.21,3.079898
+21,f6,hairfollicle21-f6-w8,Week 8,8,7:38468214:C:T,hairfollicle21-f6-w14,Week 14,14,HF,Visually normal,0.3,11,38.21,3.079898
+21,f6,hairfollicle21-f6-w8,Week 8,8,7:38468214:C:T,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.228,14,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,9:110577090:A:AT,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.107,30,54.51,4.406615
+21,f6,hairfollicle21-f6-w8,Week 8,8,X:18261576:C:T,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.273,26,54.51,4.406615
+21,g3,hairfollicle21-g3-w8,Week 8,8,15:75086281:T:G,hairfollicle21-g3-w17,Week 17,17,HF,SCC,0.731,24,95.72,5.249178
+21,g3,hairfollicle21-g3-w8,Week 8,8,17:39847081:T:C,hairfollicle21-g3-w14,Week 14,14,HF,Visually normal,0.081,92,33.43,2.011044
+21,g4,hairfollicle21-g4-w8,Week 8,8,15:75086281:T:G,hairfollicle21-g4-w14,Week 14,14,HF,Visually normal,0.381,20,15.3,0.624356
+21,g4,hairfollicle21-g4-w8,Week 8,8,15:75086281:T:G,hairfollicle21-g4-w17,Week 17,17,HF,SCC,0.583,10,36.53,1.049966
+21,g4,hairfollicle21-g4-w8,Week 8,8,15:75086887:G:A,hairfollicle21-g4-w17,Week 17,17,HF,SCC,0.129,36,36.53,1.049966
+21,g4,hairfollicle21-g4-w8,Week 8,8,15:75086887:G:A,skin21-g4-w19,Skin,19,Skin,SCC,0.014,67,6537.05,13.57167
+21,g4,hairfollicle21-g4-w8,Week 8,8,17:39843645:CGA:C,skin21-g4-w19,Skin,19,Skin,SCC,0.045,19,6537.05,13.57167
+21,g4,hairfollicle21-g4-w8,Week 8,8,17:39848437:C:T,hairfollicle21-g4-w17,Week 17,17,HF,SCC,0.088,51,36.53,1.049966
+21,g4,hairfollicle21-g4-w8,Week 8,8,17:39848437:C:T,skin21-g4-w19,Skin,19,Skin,SCC,0.032,27,6537.05,13.57167
+21,g4,hairfollicle21-g4-w8,Week 8,8,3:93211787:C:T,hairfollicle21-g4-w17,Week 17,17,HF,SCC,0.132,37,36.53,1.049966
+21,g4,hairfollicle21-g4-w8,Week 8,8,5:146261024:T:TG,skin21-g4-w19,Skin,19,Skin,SCC,0.051,20,6537.05,13.57167
+21,g6,hairfollicle21-g6-w8,Week 8,8,17:39847081:T:C,hairfollicle21-g6-w17,Week 17,17,HF,Visually normal,0.643,18,13.18,0.763519
+21,b6,hairfollicle21-b6-w14,Week 14,14,11:3196096:G:T,skin21-b6-w19,Skin,19,Skin,SCC,0.068,15,7024.02,14.991408
+21,b6,hairfollicle21-b6-w14,Week 14,14,15:75085588:G:A,skin21-b6-w19,Skin,19,Skin,SCC,0.065,14,7024.02,14.991408
+21,b6,hairfollicle21-b6-w14,Week 14,14,15:75085595:T:A,skin21-b6-w19,Skin,19,Skin,SCC,0.083,11,7024.02,14.991408
+21,b6,hairfollicle21-b6-w14,Week 14,14,15:75086281:T:G,hairfollicle21-b6-w17,Week 17,17,HF,SCC,0.278,42,57.82,2.239444
+21,b6,hairfollicle21-b6-w14,Week 14,14,15:75086281:T:G,skin21-b6-w19,Skin,19,Skin,SCC,0.083,10,7024.02,14.991408
+21,c6,hairfollicle21-c6-w14,Week 14,14,11:3196197:G:A,skin21-c6-w19,Skin,19,Skin,Visually normal,0.09,10,3819.7,7.706756
+21,c6,hairfollicle21-c6-w14,Week 14,14,11:3198745:T:TA,skin21-c6-w19,Skin,19,Skin,Visually normal,0.035,23,3819.7,7.706756
+21,c6,hairfollicle21-c6-w14,Week 14,14,16:48426589:C:T,skin21-c6-w19,Skin,19,Skin,Visually normal,0.043,21,3819.7,7.706756
+21,c6,hairfollicle21-c6-w14,Week 14,14,17:39843645:CGA:C,skin21-c6-w19,Skin,19,Skin,Visually normal,0.045,19,3819.7,7.706756
+21,c6,hairfollicle21-c6-w14,Week 14,14,17:39843752:A:G,skin21-c6-w19,Skin,19,Skin,Visually normal,0.058,16,3819.7,7.706756
+21,c6,hairfollicle21-c6-w14,Week 14,14,17:39843788:G:C,skin21-c6-w19,Skin,19,Skin,Visually normal,0.078,11,3819.7,7.706756
+21,c6,hairfollicle21-c6-w14,Week 14,14,17:39848437:C:T,skin21-c6-w19,Skin,19,Skin,Visually normal,0.034,27,3819.7,7.706756
+21,c6,hairfollicle21-c6-w14,Week 14,14,18:19836381:CCTCCTGCTCCTGCTCCTGCTCCTCCTGCTCCTGCTCCTCCTCCTCCTCCTT:C,hairfollicle21-c6-w17,Week 17,17,HF,SCC,0.637,10,28.88,0.720408
+21,c6,hairfollicle21-c6-w14,Week 14,14,2:98662907:T:A,skin21-c6-w19,Skin,19,Skin,Visually normal,0.039,20,3819.7,7.706756
+21,c6,hairfollicle21-c6-w14,Week 14,14,7:113987712:C:G,skin21-c6-w19,Skin,19,Skin,Visually normal,0.051,13,3819.7,7.706756
+21,c7,hairfollicle21-c7-w14,Week 14,14,11:109012015:A:G,hairfollicle21-c7-w17,Week 17,17,HF,SCC,0.333,17,21.2,0.743068
+21,c7,hairfollicle21-c7-w14,Week 14,14,17:39847081:T:C,hairfollicle21-c7-w17,Week 17,17,HF,SCC,0.276,12,21.2,0.743068
+21,e3,hairfollicle21-e3-w14,Week 14,14,15:75086281:T:G,hairfollicle21-e3-w17,Week 17,17,HF,SCC,0.556,21,42.16,1.726768
+21,e3,hairfollicle21-e3-w14,Week 14,14,15:75086281:T:G,skin21-e3-w19,Skin,19,Skin,Visually normal,0.083,10,3269.73,7.499677
+21,e3,hairfollicle21-e3-w14,Week 14,14,16:48426589:C:T,skin21-e3-w19,Skin,19,Skin,Visually normal,0.043,21,3269.73,7.499677
+21,e3,hairfollicle21-e3-w14,Week 14,14,17:39843645:CGA:C,hairfollicle21-e3-w17,Week 17,17,HF,SCC,0.178,33,42.16,1.726768
+21,e3,hairfollicle21-e3-w14,Week 14,14,17:39843645:CGA:C,skin21-e3-w19,Skin,19,Skin,Visually normal,0.045,19,3269.73,7.499677
+21,e3,hairfollicle21-e3-w14,Week 14,14,17:39847081:T:C,hairfollicle21-e3-w17,Week 17,17,HF,SCC,0.071,155,42.16,1.726768
+21,e4,hairfollicle21-e4-w14,Week 14,14,11:3196096:G:T,skin21-e4-w19,Skin,19,Skin,SCC,0.068,15,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,14:29638934:C:G,skin21-e4-w19,Skin,19,Skin,SCC,0.022,38,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,15:75086738:C:CCGG,skin21-e4-w19,Skin,19,Skin,SCC,0.019,46,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,15:75086739:TA:T,skin21-e4-w19,Skin,19,Skin,SCC,0.019,46,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,16:48426589:C:T,skin21-e4-w19,Skin,19,Skin,SCC,0.043,21,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,17:36231315:A:G,hairfollicle21-e4-w17,Week 17,17,HF,SCC,0.111,32,47.62,1.130164
+21,e4,hairfollicle21-e4-w14,Week 14,14,17:39843645:CGA:C,skin21-e4-w19,Skin,19,Skin,SCC,0.045,19,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,17:39843752:A:G,skin21-e4-w19,Skin,19,Skin,SCC,0.058,16,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,18:3005843:C:CAT,skin21-e4-w19,Skin,19,Skin,SCC,0.044,19,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,18:3005850:C:A,skin21-e4-w19,Skin,19,Skin,SCC,0.045,19,3921.83,7.89452
+21,e4,hairfollicle21-e4-w14,Week 14,14,8:86288406:C:T,skin21-e4-w19,Skin,19,Skin,SCC,0.077,11,3921.83,7.89452
+21,f6,hairfollicle21-f6-w14,Week 14,14,11:3196963:G:A,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.16,29,54.51,4.406615
+21,f6,hairfollicle21-f6-w14,Week 14,14,3:93211726:A:T,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.034,179,54.51,4.406615
+21,f6,hairfollicle21-f6-w14,Week 14,14,7:38468214:C:T,hairfollicle21-f6-w17,Week 17,17,HF,Visually normal,0.228,14,54.51,4.406615
+21,g3,hairfollicle21-g3-w14,Week 14,14,3:93212180:A:G,skin21-g3-w19,Skin,19,Skin,Visually normal,0.027,33,6722.06,14.270391
+21,g3,hairfollicle21-g3-w14,Week 14,14,3:93213282:C:A,hairfollicle21-g3-w17,Week 17,17,HF,SCC,0.073,80,95.72,5.249178
+21,g4,hairfollicle21-g4-w14,Week 14,14,12:3110011:G:A,hairfollicle21-g4-w17,Week 17,17,HF,SCC,0.03,241,36.53,1.049966
+21,g4,hairfollicle21-g4-w14,Week 14,14,15:75086281:T:G,hairfollicle21-g4-w17,Week 17,17,HF,SCC,0.583,10,36.53,1.049966

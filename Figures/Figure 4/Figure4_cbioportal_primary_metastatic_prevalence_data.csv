@@ -1,0 +1,186 @@
+study_id,endpoint_group,gene_symbol,gene_label,candidate_group,human_symbols,n_profiled,n_mutated,prevalence_pct,comparison_cohort
+cscc_dfarber_2015,Metastasis,Arid2,Arid2 / ARID2,I+P,ARID2,29,8,27.586206896551722,DFCI
+cscc_dfarber_2015,Metastasis,Rad51b,Rad51b / RAD51B,Initiation (I),RAD51B,29,0,0,DFCI
+cscc_dfarber_2015,Metastasis,Erbb2,Erbb2 / ERBB2,Predisposition,ERBB2,29,5,17.24137931034483,DFCI
+cscc_dfarber_2015,Metastasis,Lrp1b,Lrp1b / LRP1B,Predisposition,LRP1B,29,14,48.275862068965516,DFCI
+cscc_dfarber_2015,Metastasis,Ptch1,Ptch1 / PTCH1,Predisposition,PTCH1,29,4,13.793103448275861,DFCI
+cscc_hgsc_bcm_2014,Primary,Arid2,Arid2 / ARID2,I+P,ARID2,32,5,15.625,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Arid2,Arid2 / ARID2,I+P,ARID2,7,2,28.571428571428573,HGSC
+cscc_hgsc_bcm_2014,Primary,Aatk,Aatk / AATK,Initiation (I),AATK,32,5,15.625,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Aatk,Aatk / AATK,Initiation (I),AATK,7,2,28.571428571428573,HGSC
+cscc_hgsc_bcm_2014,Primary,Bmper,Bmper / BMPER,Initiation (I),BMPER,32,6,18.75,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Bmper,Bmper / BMPER,Initiation (I),BMPER,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Cep170b,Cep170b / CEP170B,Initiation (I),CEP170B,32,5,15.625,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Cep170b,Cep170b / CEP170B,Initiation (I),CEP170B,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Cldn18,Cldn18 / CLDN18,Initiation (I),CLDN18,32,2,6.25,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Cldn18,Cldn18 / CLDN18,Initiation (I),CLDN18,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Dennd1c,Dennd1c / DENND1C,Initiation (I),DENND1C,32,2,6.25,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Dennd1c,Dennd1c / DENND1C,Initiation (I),DENND1C,7,1,14.285714285714286,HGSC
+cscc_hgsc_bcm_2014,Primary,Ezh1,Ezh1 / EZH1,Initiation (I),EZH1,32,5,15.625,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Ezh1,Ezh1 / EZH1,Initiation (I),EZH1,7,3,42.857142857142854,HGSC
+cscc_hgsc_bcm_2014,Primary,Folh1,Folh1 / FOLH1,Initiation (I),FOLH1,32,7,21.875,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Folh1,Folh1 / FOLH1,Initiation (I),FOLH1,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,32,6,18.75,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,32,7,21.875,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,7,3,42.857142857142854,HGSC
+cscc_hgsc_bcm_2014,Primary,Ophn1,Ophn1 / OPHN1,Initiation (I),OPHN1,32,0,0,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Ophn1,Ophn1 / OPHN1,Initiation (I),OPHN1,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Otog,Otog / OTOG,Initiation (I),OTOG,32,0,0,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Otog,Otog / OTOG,Initiation (I),OTOG,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Pkp4,Pkp4 / PKP4,Initiation (I),PKP4,32,6,18.75,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Pkp4,Pkp4 / PKP4,Initiation (I),PKP4,7,2,28.571428571428573,HGSC
+cscc_hgsc_bcm_2014,Primary,Plce1,Plce1 / PLCE1,Initiation (I),PLCE1,32,16,50,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Plce1,Plce1 / PLCE1,Initiation (I),PLCE1,7,1,14.285714285714286,HGSC
+cscc_hgsc_bcm_2014,Primary,Ppp1r14d,Ppp1r14d / PPP1R14D,Initiation (I),PPP1R14D,32,4,12.5,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Ppp1r14d,Ppp1r14d / PPP1R14D,Initiation (I),PPP1R14D,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Rad51b,Rad51b / RAD51B,Initiation (I),RAD51B,32,5,15.625,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Rad51b,Rad51b / RAD51B,Initiation (I),RAD51B,7,1,14.285714285714286,HGSC
+cscc_hgsc_bcm_2014,Primary,Rasd2,Rasd2 / RASD2,Initiation (I),RASD2,32,2,6.25,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Rasd2,Rasd2 / RASD2,Initiation (I),RASD2,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Spats2l,Spats2l / SPATS2L,Initiation (I),SPATS2L,32,4,12.5,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Spats2l,Spats2l / SPATS2L,Initiation (I),SPATS2L,7,1,14.285714285714286,HGSC
+cscc_hgsc_bcm_2014,Primary,Srgap1,Srgap1 / SRGAP1,Initiation (I),SRGAP1,32,2,6.25,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Srgap1,Srgap1 / SRGAP1,Initiation (I),SRGAP1,7,1,14.285714285714286,HGSC
+cscc_hgsc_bcm_2014,Primary,Tmprss9,Tmprss9 / TMPRSS9,Initiation (I),TMPRSS9,32,3,9.375,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Tmprss9,Tmprss9 / TMPRSS9,Initiation (I),TMPRSS9,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Ube2d2a,Ube2d2a / UBE2D2,Initiation (I),UBE2D2,32,0,0,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Ube2d2a,Ube2d2a / UBE2D2,Initiation (I),UBE2D2,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Usp3,Usp3 / USP3,Initiation (I),USP3,32,1,3.125,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Usp3,Usp3 / USP3,Initiation (I),USP3,7,1,14.285714285714286,HGSC
+cscc_hgsc_bcm_2014,Primary,Xirp2,Xirp2 / XIRP2,Initiation (I),XIRP2,32,24,75,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Xirp2,Xirp2 / XIRP2,Initiation (I),XIRP2,7,4,57.142857142857146,HGSC
+cscc_hgsc_bcm_2014,Primary,Csmd2,Csmd2 / CSMD2,Predisposition,CSMD2,32,18,56.25,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Csmd2,Csmd2 / CSMD2,Predisposition,CSMD2,7,4,57.142857142857146,HGSC
+cscc_hgsc_bcm_2014,Primary,Erbb2,Erbb2 / ERBB2,Predisposition,ERBB2,32,6,18.75,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Erbb2,Erbb2 / ERBB2,Predisposition,ERBB2,7,1,14.285714285714286,HGSC
+cscc_hgsc_bcm_2014,Primary,Huwe1,Huwe1 / HUWE1,Predisposition,HUWE1,32,10,31.25,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Huwe1,Huwe1 / HUWE1,Predisposition,HUWE1,7,3,42.857142857142854,HGSC
+cscc_hgsc_bcm_2014,Primary,Lrp1b,Lrp1b / LRP1B,Predisposition,LRP1B,32,27,84.375,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Lrp1b,Lrp1b / LRP1B,Predisposition,LRP1B,7,7,100,HGSC
+cscc_hgsc_bcm_2014,Primary,Pard3,Pard3 / PARD3,Predisposition,PARD3,32,8,25,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Pard3,Pard3 / PARD3,Predisposition,PARD3,7,4,57.142857142857146,HGSC
+cscc_hgsc_bcm_2014,Primary,Psme4,Psme4 / PSME4,Predisposition,PSME4,32,3,9.375,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Psme4,Psme4 / PSME4,Predisposition,PSME4,7,0,0,HGSC
+cscc_hgsc_bcm_2014,Primary,Ptch1,Ptch1 / PTCH1,Predisposition,PTCH1,32,5,15.625,HGSC
+cscc_hgsc_bcm_2014,Metastasis,Ptch1,Ptch1 / PTCH1,Predisposition,PTCH1,7,1,14.285714285714286,HGSC
+cscc_ranson_2022,Metastasis,Arid2,Arid2 / ARID2,I+P,ARID2,25,8,32,Ranson
+cscc_ranson_2022,Metastasis,Aatk,Aatk / AATK,Initiation (I),AATK,25,8,32,Ranson
+cscc_ranson_2022,Metastasis,Bmper,Bmper / BMPER,Initiation (I),BMPER,25,9,36,Ranson
+cscc_ranson_2022,Metastasis,Cep170b,Cep170b / CEP170B,Initiation (I),CEP170B,25,14,56,Ranson
+cscc_ranson_2022,Metastasis,Cldn18,Cldn18 / CLDN18,Initiation (I),CLDN18,25,2,8,Ranson
+cscc_ranson_2022,Metastasis,Dennd1c,Dennd1c / DENND1C,Initiation (I),DENND1C,25,6,24,Ranson
+cscc_ranson_2022,Metastasis,Ezh1,Ezh1 / EZH1,Initiation (I),EZH1,25,9,36,Ranson
+cscc_ranson_2022,Metastasis,Folh1,Folh1 / FOLH1,Initiation (I),FOLH1,25,9,36,Ranson
+cscc_ranson_2022,Metastasis,Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,25,3,12,Ranson
+cscc_ranson_2022,Metastasis,Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,25,16,64,Ranson
+cscc_ranson_2022,Metastasis,Ophn1,Ophn1 / OPHN1,Initiation (I),OPHN1,25,2,8,Ranson
+cscc_ranson_2022,Metastasis,Otog,Otog / OTOG,Initiation (I),OTOG,25,17,68,Ranson
+cscc_ranson_2022,Metastasis,Pkp4,Pkp4 / PKP4,Initiation (I),PKP4,25,7,28,Ranson
+cscc_ranson_2022,Metastasis,Plce1,Plce1 / PLCE1,Initiation (I),PLCE1,25,17,68,Ranson
+cscc_ranson_2022,Metastasis,Ppp1r14d,Ppp1r14d / PPP1R14D,Initiation (I),PPP1R14D,25,0,0,Ranson
+cscc_ranson_2022,Metastasis,Rad51b,Rad51b / RAD51B,Initiation (I),RAD51B,25,4,16,Ranson
+cscc_ranson_2022,Metastasis,Rasd2,Rasd2 / RASD2,Initiation (I),RASD2,25,4,16,Ranson
+cscc_ranson_2022,Metastasis,Spats2l,Spats2l / SPATS2L,Initiation (I),SPATS2L,25,0,0,Ranson
+cscc_ranson_2022,Metastasis,Srgap1,Srgap1 / SRGAP1,Initiation (I),SRGAP1,25,6,24,Ranson
+cscc_ranson_2022,Metastasis,Tmprss9,Tmprss9 / TMPRSS9,Initiation (I),TMPRSS9,25,9,36,Ranson
+cscc_ranson_2022,Metastasis,Ube2d2a,Ube2d2a / UBE2D2,Initiation (I),UBE2D2,25,0,0,Ranson
+cscc_ranson_2022,Metastasis,Usp3,Usp3 / USP3,Initiation (I),USP3,25,2,8,Ranson
+cscc_ranson_2022,Metastasis,Xirp2,Xirp2 / XIRP2,Initiation (I),XIRP2,25,19,76,Ranson
+cscc_ranson_2022,Metastasis,Csmd2,Csmd2 / CSMD2,Predisposition,CSMD2,25,18,72,Ranson
+cscc_ranson_2022,Metastasis,Erbb2,Erbb2 / ERBB2,Predisposition,ERBB2,25,6,24,Ranson
+cscc_ranson_2022,Metastasis,Huwe1,Huwe1 / HUWE1,Predisposition,HUWE1,25,10,40,Ranson
+cscc_ranson_2022,Metastasis,Lrp1b,Lrp1b / LRP1B,Predisposition,LRP1B,25,22,88,Ranson
+cscc_ranson_2022,Metastasis,Pard3,Pard3 / PARD3,Predisposition,PARD3,25,9,36,Ranson
+cscc_ranson_2022,Metastasis,Psme4,Psme4 / PSME4,Predisposition,PSME4,25,6,24,Ranson
+cscc_ranson_2022,Metastasis,Ptch1,Ptch1 / PTCH1,Predisposition,PTCH1,25,7,28,Ranson
+cscc_ucsf_2021,Primary,Arid2,Arid2 / ARID2,I+P,ARID2,83,23,27.710843373493976,UCSF
+cscc_ucsf_2021,Primary,Aatk,Aatk / AATK,Initiation (I),AATK,83,2,2.4096385542168677,UCSF
+cscc_ucsf_2021,Primary,Bmper,Bmper / BMPER,Initiation (I),BMPER,83,6,7.228915662650603,UCSF
+cscc_ucsf_2021,Primary,Cep170b,Cep170b / CEP170B,Initiation (I),CEP170B,83,5,6.024096385542169,UCSF
+cscc_ucsf_2021,Primary,Cldn18,Cldn18 / CLDN18,Initiation (I),CLDN18,83,5,6.024096385542169,UCSF
+cscc_ucsf_2021,Primary,Dennd1c,Dennd1c / DENND1C,Initiation (I),DENND1C,83,5,6.024096385542169,UCSF
+cscc_ucsf_2021,Primary,Ezh1,Ezh1 / EZH1,Initiation (I),EZH1,83,7,8.433734939759036,UCSF
+cscc_ucsf_2021,Primary,Folh1,Folh1 / FOLH1,Initiation (I),FOLH1,83,7,8.433734939759036,UCSF
+cscc_ucsf_2021,Primary,Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,83,4,4.819277108433735,UCSF
+cscc_ucsf_2021,Primary,Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,83,7,8.433734939759036,UCSF
+cscc_ucsf_2021,Primary,Ophn1,Ophn1 / OPHN1,Initiation (I),OPHN1,83,2,2.4096385542168677,UCSF
+cscc_ucsf_2021,Primary,Otog,Otog / OTOG,Initiation (I),OTOG,83,12,14.457831325301205,UCSF
+cscc_ucsf_2021,Primary,Pkp4,Pkp4 / PKP4,Initiation (I),PKP4,83,7,8.433734939759036,UCSF
+cscc_ucsf_2021,Primary,Plce1,Plce1 / PLCE1,Initiation (I),PLCE1,83,24,28.91566265060241,UCSF
+cscc_ucsf_2021,Primary,Ppp1r14d,Ppp1r14d / PPP1R14D,Initiation (I),PPP1R14D,83,2,2.4096385542168677,UCSF
+cscc_ucsf_2021,Primary,Rad51b,Rad51b / RAD51B,Initiation (I),RAD51B,83,8,9.63855421686747,UCSF
+cscc_ucsf_2021,Primary,Rasd2,Rasd2 / RASD2,Initiation (I),RASD2,83,3,3.6144578313253013,UCSF
+cscc_ucsf_2021,Primary,Spats2l,Spats2l / SPATS2L,Initiation (I),SPATS2L,83,1,1.2048192771084338,UCSF
+cscc_ucsf_2021,Primary,Srgap1,Srgap1 / SRGAP1,Initiation (I),SRGAP1,83,9,10.843373493975903,UCSF
+cscc_ucsf_2021,Primary,Tmprss9,Tmprss9 / TMPRSS9,Initiation (I),TMPRSS9,83,8,9.63855421686747,UCSF
+cscc_ucsf_2021,Primary,Ube2d2a,Ube2d2a / UBE2D2,Initiation (I),UBE2D2,83,1,1.2048192771084338,UCSF
+cscc_ucsf_2021,Primary,Usp3,Usp3 / USP3,Initiation (I),USP3,83,1,1.2048192771084338,UCSF
+cscc_ucsf_2021,Primary,Xirp2,Xirp2 / XIRP2,Initiation (I),XIRP2,83,14,16.867469879518072,UCSF
+cscc_ucsf_2021,Primary,Csmd2,Csmd2 / CSMD2,Predisposition,CSMD2,83,27,32.53012048192771,UCSF
+cscc_ucsf_2021,Primary,Erbb2,Erbb2 / ERBB2,Predisposition,ERBB2,83,3,3.6144578313253013,UCSF
+cscc_ucsf_2021,Primary,Huwe1,Huwe1 / HUWE1,Predisposition,HUWE1,83,18,21.686746987951807,UCSF
+cscc_ucsf_2021,Primary,Lrp1b,Lrp1b / LRP1B,Predisposition,LRP1B,83,37,44.57831325301205,UCSF
+cscc_ucsf_2021,Primary,Pard3,Pard3 / PARD3,Predisposition,PARD3,83,15,18.072289156626507,UCSF
+cscc_ucsf_2021,Primary,Psme4,Psme4 / PSME4,Predisposition,PSME4,83,8,9.63855421686747,UCSF
+cscc_ucsf_2021,Primary,Ptch1,Ptch1 / PTCH1,Predisposition,PTCH1,83,18,21.686746987951807,UCSF
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Arid2,Arid2 / ARID2,I+P,ARID2,115,28,24.347826086956523,Pooled
+cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Arid2,Arid2 / ARID2,I+P,ARID2,61,18,29.508196721311474,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Aatk,Aatk / AATK,Initiation (I),AATK,115,7,6.086956521739131,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Aatk,Aatk / AATK,Initiation (I),AATK,32,10,31.25,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Bmper,Bmper / BMPER,Initiation (I),BMPER,115,12,10.434782608695652,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Bmper,Bmper / BMPER,Initiation (I),BMPER,32,9,28.125,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Cep170b,Cep170b / CEP170B,Initiation (I),CEP170B,115,10,8.695652173913043,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Cep170b,Cep170b / CEP170B,Initiation (I),CEP170B,32,14,43.75,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Cldn18,Cldn18 / CLDN18,Initiation (I),CLDN18,115,7,6.086956521739131,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Cldn18,Cldn18 / CLDN18,Initiation (I),CLDN18,32,2,6.25,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Dennd1c,Dennd1c / DENND1C,Initiation (I),DENND1C,115,7,6.086956521739131,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Dennd1c,Dennd1c / DENND1C,Initiation (I),DENND1C,32,7,21.875,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Ezh1,Ezh1 / EZH1,Initiation (I),EZH1,115,12,10.434782608695652,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Ezh1,Ezh1 / EZH1,Initiation (I),EZH1,32,12,37.5,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Folh1,Folh1 / FOLH1,Initiation (I),FOLH1,115,14,12.173913043478262,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Folh1,Folh1 / FOLH1,Initiation (I),FOLH1,32,9,28.125,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,115,10,8.695652173913043,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,32,3,9.375,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,115,14,12.173913043478262,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,32,19,59.375,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Ophn1,Ophn1 / OPHN1,Initiation (I),OPHN1,115,2,1.7391304347826086,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Ophn1,Ophn1 / OPHN1,Initiation (I),OPHN1,32,2,6.25,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Otog,Otog / OTOG,Initiation (I),OTOG,115,12,10.434782608695652,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Otog,Otog / OTOG,Initiation (I),OTOG,32,17,53.125,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Pkp4,Pkp4 / PKP4,Initiation (I),PKP4,115,13,11.304347826086957,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Pkp4,Pkp4 / PKP4,Initiation (I),PKP4,32,9,28.125,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Plce1,Plce1 / PLCE1,Initiation (I),PLCE1,115,40,34.78260869565217,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Plce1,Plce1 / PLCE1,Initiation (I),PLCE1,32,18,56.25,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Ppp1r14d,Ppp1r14d / PPP1R14D,Initiation (I),PPP1R14D,115,6,5.217391304347826,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Ppp1r14d,Ppp1r14d / PPP1R14D,Initiation (I),PPP1R14D,32,0,0,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Rad51b,Rad51b / RAD51B,Initiation (I),RAD51B,115,13,11.304347826086957,Pooled
+cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Rad51b,Rad51b / RAD51B,Initiation (I),RAD51B,61,5,8.19672131147541,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Rasd2,Rasd2 / RASD2,Initiation (I),RASD2,115,5,4.3478260869565215,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Rasd2,Rasd2 / RASD2,Initiation (I),RASD2,32,4,12.5,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Spats2l,Spats2l / SPATS2L,Initiation (I),SPATS2L,115,5,4.3478260869565215,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Spats2l,Spats2l / SPATS2L,Initiation (I),SPATS2L,32,1,3.125,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Srgap1,Srgap1 / SRGAP1,Initiation (I),SRGAP1,115,11,9.565217391304348,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Srgap1,Srgap1 / SRGAP1,Initiation (I),SRGAP1,32,7,21.875,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Tmprss9,Tmprss9 / TMPRSS9,Initiation (I),TMPRSS9,115,11,9.565217391304348,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Tmprss9,Tmprss9 / TMPRSS9,Initiation (I),TMPRSS9,32,9,28.125,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Ube2d2a,Ube2d2a / UBE2D2,Initiation (I),UBE2D2,115,1,0.8695652173913043,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Ube2d2a,Ube2d2a / UBE2D2,Initiation (I),UBE2D2,32,0,0,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Usp3,Usp3 / USP3,Initiation (I),USP3,115,2,1.7391304347826086,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Usp3,Usp3 / USP3,Initiation (I),USP3,32,3,9.375,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Xirp2,Xirp2 / XIRP2,Initiation (I),XIRP2,115,38,33.04347826086956,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Xirp2,Xirp2 / XIRP2,Initiation (I),XIRP2,32,23,71.875,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Csmd2,Csmd2 / CSMD2,Predisposition,CSMD2,115,45,39.130434782608695,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Csmd2,Csmd2 / CSMD2,Predisposition,CSMD2,32,22,68.75,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Erbb2,Erbb2 / ERBB2,Predisposition,ERBB2,115,9,7.826086956521739,Pooled
+cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Erbb2,Erbb2 / ERBB2,Predisposition,ERBB2,61,12,19.672131147540984,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Huwe1,Huwe1 / HUWE1,Predisposition,HUWE1,115,28,24.347826086956523,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Huwe1,Huwe1 / HUWE1,Predisposition,HUWE1,32,13,40.625,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Lrp1b,Lrp1b / LRP1B,Predisposition,LRP1B,115,64,55.65217391304348,Pooled
+cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Lrp1b,Lrp1b / LRP1B,Predisposition,LRP1B,61,43,70.49180327868852,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Pard3,Pard3 / PARD3,Predisposition,PARD3,115,23,20,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Pard3,Pard3 / PARD3,Predisposition,PARD3,32,13,40.625,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Psme4,Psme4 / PSME4,Predisposition,PSME4,115,11,9.565217391304348,Pooled
+cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Psme4,Psme4 / PSME4,Predisposition,PSME4,32,6,18.75,Pooled
+cscc_hgsc_bcm_2014;cscc_ucsf_2021,Primary,Ptch1,Ptch1 / PTCH1,Predisposition,PTCH1,115,23,20,Pooled
+cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ranson_2022,Metastasis,Ptch1,Ptch1 / PTCH1,Predisposition,PTCH1,61,12,19.672131147540984,Pooled

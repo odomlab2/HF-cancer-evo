@@ -1,0 +1,5 @@
+analysis,test,alternative,estimate,estimate_type,conf_low,conf_high,p_value,odds_ratio,odds_ratio_conf_low,odds_ratio_conf_high
+WES Adjacent vs Distal,Fisher's exact test,Adjacent T>A proportion > Distal T>A proportion,1.8355187665416897,odds_ratio,1.179440488616519,Inf,0.010091623522191168,1.8355187665416897,1.179440488616519,Inf
+WES Adjacent vs Distal,Fisher's exact test,two-sided,1.8355187665416897,odds_ratio,1.0922309419962655,3.150923243013441,0.016138396316217975,1.8355187665416897,1.0922309419962655,3.150923243013441
+TES Week 8/14/17 trend,Logistic regression,continuous week effect adjusted for log(callable_mbp),0.06251239902465093,log_odds_slope_per_week,-0.033116377550556714,0.15814117559985857,0.20011438519766925,1.0645076576927222,0.9674259663731862,1.171331546469284
+TES Week 8/14/17 trend,Likelihood ratio test,continuous week effect adjusted for log(callable_mbp),1.713543113797364,deviance_reduction,NA,NA,0.19052631417567573,NA,NA,NA

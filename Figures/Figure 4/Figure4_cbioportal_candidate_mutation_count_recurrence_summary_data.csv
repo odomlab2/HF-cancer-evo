@@ -1,0 +1,7 @@
+analysis_scope,analysis_scope_order,endpoint_group,n_samples,n_samples_with_candidate_mutation,candidate_mutation_count_min,candidate_mutation_count_q25,candidate_mutation_count_median,candidate_mutation_count_q75,candidate_mutation_count_max
+Pooled,1,Disease free,41,31,0,1,5,9,49
+Pooled,1,Recurred / progressed,25,21,0,2,3,11,43
+DFCI only,2,Disease free,18,11,0,0,1,2,6
+DFCI only,2,Recurred / progressed,11,7,0,0,2,2,6
+HGSC only,3,Disease free,23,20,0,5.5,8,12.5,49
+HGSC only,3,Recurred / progressed,14,14,2,5.25,10.5,17.25,43

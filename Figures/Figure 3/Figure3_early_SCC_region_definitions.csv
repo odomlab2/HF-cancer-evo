@@ -1,0 +1,15 @@
+mouse,grid,scc_sample_names,scc_tissues,scc_timepoints
+21,b6,hairfollicle21-b6-w14; hairfollicle21-b6-w17; hairfollicle21-b6-w8; skin21-b6-w19,Hair follicle; Skin,Week 14; Week 17; Week 8
+21,b6c7,skin21-pp-bc-w19,Skin,
+21,b7,hairfollicle21-b7-w14; hairfollicle21-b7-w17; hairfollicle21-b7-w8; skin21-b7-w19,Hair follicle; Skin,Week 14; Week 17; Week 8
+21,c6,hairfollicle21-c6-w14; hairfollicle21-c6-w17; hairfollicle21-c6-w8,Hair follicle,Week 14; Week 17; Week 8
+21,c7,hairfollicle21-c7-w14; hairfollicle21-c7-w17; hairfollicle21-c7-w8; skin21-c7-w19,Hair follicle; Skin,Week 14; Week 17; Week 8
+21,de,skin21-pp-de-w19,Skin,
+21,e3,hairfollicle21-e3-w14; hairfollicle21-e3-w17; hairfollicle21-e3-w8,Hair follicle,Week 14; Week 17; Week 8
+21,e4,hairfollicle21-e4-w14; hairfollicle21-e4-w17; hairfollicle21-e4-w8; skin21-e4-w19,Hair follicle; Skin,Week 14; Week 17; Week 8
+21,f3,hairfollicle21-f3-w17; hairfollicle21-f3-w8,Hair follicle,Week 17; Week 8
+21,f4,hairfollicle21-f4-w17; hairfollicle21-f4-w8; skin21-f4-w19,Hair follicle; Skin,Week 17; Week 8
+21,f6,hairfollicle21-f6-w19,Hair follicle,Week 19
+21,g3,hairfollicle21-g3-w17,Hair follicle,Week 17
+21,g4,hairfollicle21-g4-w17; skin21-g4-w19,Hair follicle; Skin,Week 17
+21,g6,hairfollicle21-g6-w19,Hair follicle,Week 19

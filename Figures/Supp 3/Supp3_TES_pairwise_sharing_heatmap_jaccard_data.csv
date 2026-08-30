@@ -1,0 +1,65 @@
+group_x,group_y,n_shared,group_total_shared_x,group_total_shared_y,union_shared,jaccard_similarity,comparison_type
+Hair follicle SCC,Hair follicle SCC,481,481,481,481,1,Within group
+Hair follicle Papilloma,Hair follicle SCC,208,354,481,627,0.3317384370015949,Between groups
+Hair follicle Morphologically normal,Hair follicle SCC,363,548,481,666,0.545045045045045,Between groups
+Hair follicle Acetone,Hair follicle SCC,19,34,481,496,0.038306451612903226,Between groups
+Skin SCC,Hair follicle SCC,71,217,481,627,0.11323763955342903,Between groups
+Skin Papilloma,Hair follicle SCC,42,102,481,541,0.07763401109057301,Between groups
+Skin Morphologically normal,Hair follicle SCC,90,252,481,643,0.13996889580093314,Between groups
+Skin Acetone,Hair follicle SCC,3,16,481,494,0.006072874493927126,Between groups
+Hair follicle SCC,Hair follicle Papilloma,208,481,354,627,0.3317384370015949,Between groups
+Hair follicle Papilloma,Hair follicle Papilloma,354,354,354,354,1,Within group
+Hair follicle Morphologically normal,Hair follicle Papilloma,250,548,354,652,0.3834355828220859,Between groups
+Hair follicle Acetone,Hair follicle Papilloma,6,34,354,382,0.015706806282722512,Between groups
+Skin SCC,Hair follicle Papilloma,69,217,354,502,0.13745019920318724,Between groups
+Skin Papilloma,Hair follicle Papilloma,43,102,354,413,0.10411622276029056,Between groups
+Skin Morphologically normal,Hair follicle Papilloma,75,252,354,531,0.14124293785310735,Between groups
+Skin Acetone,Hair follicle Papilloma,3,16,354,367,0.008174386920980926,Between groups
+Hair follicle SCC,Hair follicle Morphologically normal,363,481,548,666,0.545045045045045,Between groups
+Hair follicle Papilloma,Hair follicle Morphologically normal,250,354,548,652,0.3834355828220859,Between groups
+Hair follicle Morphologically normal,Hair follicle Morphologically normal,548,548,548,548,1,Within group
+Hair follicle Acetone,Hair follicle Morphologically normal,8,34,548,574,0.013937282229965157,Between groups
+Skin SCC,Hair follicle Morphologically normal,95,217,548,670,0.1417910447761194,Between groups
+Skin Papilloma,Hair follicle Morphologically normal,58,102,548,592,0.09797297297297297,Between groups
+Skin Morphologically normal,Hair follicle Morphologically normal,118,252,548,682,0.17302052785923755,Between groups
+Skin Acetone,Hair follicle Morphologically normal,4,16,548,560,0.007142857142857143,Between groups
+Hair follicle SCC,Hair follicle Acetone,19,481,34,496,0.038306451612903226,Between groups
+Hair follicle Papilloma,Hair follicle Acetone,6,354,34,382,0.015706806282722512,Between groups
+Hair follicle Morphologically normal,Hair follicle Acetone,8,548,34,574,0.013937282229965157,Between groups
+Hair follicle Acetone,Hair follicle Acetone,34,34,34,34,1,Within group
+Skin SCC,Hair follicle Acetone,4,217,34,247,0.016194331983805668,Between groups
+Skin Papilloma,Hair follicle Acetone,0,102,34,136,0,Between groups
+Skin Morphologically normal,Hair follicle Acetone,2,252,34,284,0.007042253521126761,Between groups
+Skin Acetone,Hair follicle Acetone,7,16,34,43,0.16279069767441862,Between groups
+Hair follicle SCC,Skin SCC,71,481,217,627,0.11323763955342903,Between groups
+Hair follicle Papilloma,Skin SCC,69,354,217,502,0.13745019920318724,Between groups
+Hair follicle Morphologically normal,Skin SCC,95,548,217,670,0.1417910447761194,Between groups
+Hair follicle Acetone,Skin SCC,4,34,217,247,0.016194331983805668,Between groups
+Skin SCC,Skin SCC,217,217,217,217,1,Within group
+Skin Papilloma,Skin SCC,69,102,217,250,0.276,Between groups
+Skin Morphologically normal,Skin SCC,170,252,217,299,0.568561872909699,Between groups
+Skin Acetone,Skin SCC,3,16,217,230,0.013043478260869565,Between groups
+Hair follicle SCC,Skin Papilloma,42,481,102,541,0.07763401109057301,Between groups
+Hair follicle Papilloma,Skin Papilloma,43,354,102,413,0.10411622276029056,Between groups
+Hair follicle Morphologically normal,Skin Papilloma,58,548,102,592,0.09797297297297297,Between groups
+Hair follicle Acetone,Skin Papilloma,0,34,102,136,0,Between groups
+Skin SCC,Skin Papilloma,69,217,102,250,0.276,Between groups
+Skin Papilloma,Skin Papilloma,102,102,102,102,1,Within group
+Skin Morphologically normal,Skin Papilloma,78,252,102,276,0.2826086956521739,Between groups
+Skin Acetone,Skin Papilloma,3,16,102,115,0.02608695652173913,Between groups
+Hair follicle SCC,Skin Morphologically normal,90,481,252,643,0.13996889580093314,Between groups
+Hair follicle Papilloma,Skin Morphologically normal,75,354,252,531,0.14124293785310735,Between groups
+Hair follicle Morphologically normal,Skin Morphologically normal,118,548,252,682,0.17302052785923755,Between groups
+Hair follicle Acetone,Skin Morphologically normal,2,34,252,284,0.007042253521126761,Between groups
+Skin SCC,Skin Morphologically normal,170,217,252,299,0.568561872909699,Between groups
+Skin Papilloma,Skin Morphologically normal,78,102,252,276,0.2826086956521739,Between groups
+Skin Morphologically normal,Skin Morphologically normal,252,252,252,252,1,Within group
+Skin Acetone,Skin Morphologically normal,6,16,252,262,0.022900763358778626,Between groups
+Hair follicle SCC,Skin Acetone,3,481,16,494,0.006072874493927126,Between groups
+Hair follicle Papilloma,Skin Acetone,3,354,16,367,0.008174386920980926,Between groups
+Hair follicle Morphologically normal,Skin Acetone,4,548,16,560,0.007142857142857143,Between groups
+Hair follicle Acetone,Skin Acetone,7,34,16,43,0.16279069767441862,Between groups
+Skin SCC,Skin Acetone,3,217,16,230,0.013043478260869565,Between groups
+Skin Papilloma,Skin Acetone,3,102,16,115,0.02608695652173913,Between groups
+Skin Morphologically normal,Skin Acetone,6,252,16,262,0.022900763358778626,Between groups
+Skin Acetone,Skin Acetone,16,16,16,16,1,Within group

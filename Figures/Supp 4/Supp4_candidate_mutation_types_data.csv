@@ -1,0 +1,151 @@
+gene_symbol,row_label,gene_label,candidate_group,lollipop_order,mutation_type,n_mutations,total_mutations
+Cep170b,Cep170b / CEP170B,Cep170b / CEP170B,Initiation (I),1,Missense,2,2
+Cep170b,Cep170b / CEP170B,Cep170b / CEP170B,Initiation (I),1,Deletion,0,2
+Cep170b,Cep170b / CEP170B,Cep170b / CEP170B,Initiation (I),1,Stop gain/loss,0,2
+Cep170b,Cep170b / CEP170B,Cep170b / CEP170B,Initiation (I),1,DBS,0,2
+Cep170b,Cep170b / CEP170B,Cep170b / CEP170B,Initiation (I),1,Splice,0,2
+Ube2d2a,Ube2d2a / UBE2D2,Ube2d2a / UBE2D2,Initiation (I),2,Missense,2,2
+Ube2d2a,Ube2d2a / UBE2D2,Ube2d2a / UBE2D2,Initiation (I),2,Deletion,0,2
+Ube2d2a,Ube2d2a / UBE2D2,Ube2d2a / UBE2D2,Initiation (I),2,Stop gain/loss,0,2
+Ube2d2a,Ube2d2a / UBE2D2,Ube2d2a / UBE2D2,Initiation (I),2,DBS,0,2
+Ube2d2a,Ube2d2a / UBE2D2,Ube2d2a / UBE2D2,Initiation (I),2,Splice,0,2
+Ophn1,Ophn1 / OPHN1,Ophn1 / OPHN1,Initiation (I),3,Missense,3,3
+Ophn1,Ophn1 / OPHN1,Ophn1 / OPHN1,Initiation (I),3,Deletion,0,3
+Ophn1,Ophn1 / OPHN1,Ophn1 / OPHN1,Initiation (I),3,Stop gain/loss,0,3
+Ophn1,Ophn1 / OPHN1,Ophn1 / OPHN1,Initiation (I),3,DBS,0,3
+Ophn1,Ophn1 / OPHN1,Ophn1 / OPHN1,Initiation (I),3,Splice,0,3
+Dennd1c,Dennd1c / DENND1C,Dennd1c / DENND1C,Initiation (I),4,Missense,3,3
+Dennd1c,Dennd1c / DENND1C,Dennd1c / DENND1C,Initiation (I),4,Deletion,0,3
+Dennd1c,Dennd1c / DENND1C,Dennd1c / DENND1C,Initiation (I),4,Stop gain/loss,0,3
+Dennd1c,Dennd1c / DENND1C,Dennd1c / DENND1C,Initiation (I),4,DBS,0,3
+Dennd1c,Dennd1c / DENND1C,Dennd1c / DENND1C,Initiation (I),4,Splice,0,3
+Rasd2,Rasd2 / RASD2,Rasd2 / RASD2,Initiation (I),5,Missense,2,2
+Rasd2,Rasd2 / RASD2,Rasd2 / RASD2,Initiation (I),5,Deletion,0,2
+Rasd2,Rasd2 / RASD2,Rasd2 / RASD2,Initiation (I),5,Stop gain/loss,0,2
+Rasd2,Rasd2 / RASD2,Rasd2 / RASD2,Initiation (I),5,DBS,0,2
+Rasd2,Rasd2 / RASD2,Rasd2 / RASD2,Initiation (I),5,Splice,0,2
+Folh1,Folh1 / FOLH1,Folh1 / FOLH1,Initiation (I),6,Missense,3,3
+Folh1,Folh1 / FOLH1,Folh1 / FOLH1,Initiation (I),6,Deletion,0,3
+Folh1,Folh1 / FOLH1,Folh1 / FOLH1,Initiation (I),6,Stop gain/loss,0,3
+Folh1,Folh1 / FOLH1,Folh1 / FOLH1,Initiation (I),6,DBS,0,3
+Folh1,Folh1 / FOLH1,Folh1 / FOLH1,Initiation (I),6,Splice,0,3
+Bmper,Bmper / BMPER,Bmper / BMPER,Initiation (I),7,Missense,2,2
+Bmper,Bmper / BMPER,Bmper / BMPER,Initiation (I),7,Deletion,0,2
+Bmper,Bmper / BMPER,Bmper / BMPER,Initiation (I),7,Stop gain/loss,0,2
+Bmper,Bmper / BMPER,Bmper / BMPER,Initiation (I),7,DBS,0,2
+Bmper,Bmper / BMPER,Bmper / BMPER,Initiation (I),7,Splice,0,2
+Srgap1,Srgap1 / SRGAP1,Srgap1 / SRGAP1,Initiation (I),8,Missense,1,2
+Srgap1,Srgap1 / SRGAP1,Srgap1 / SRGAP1,Initiation (I),8,Deletion,0,2
+Srgap1,Srgap1 / SRGAP1,Srgap1 / SRGAP1,Initiation (I),8,Stop gain/loss,0,2
+Srgap1,Srgap1 / SRGAP1,Srgap1 / SRGAP1,Initiation (I),8,DBS,0,2
+Srgap1,Srgap1 / SRGAP1,Srgap1 / SRGAP1,Initiation (I),8,Splice,1,2
+Xirp2,Xirp2 / XIRP2,Xirp2 / XIRP2,Initiation (I),9,Missense,2,2
+Xirp2,Xirp2 / XIRP2,Xirp2 / XIRP2,Initiation (I),9,Deletion,0,2
+Xirp2,Xirp2 / XIRP2,Xirp2 / XIRP2,Initiation (I),9,Stop gain/loss,0,2
+Xirp2,Xirp2 / XIRP2,Xirp2 / XIRP2,Initiation (I),9,DBS,0,2
+Xirp2,Xirp2 / XIRP2,Xirp2 / XIRP2,Initiation (I),9,Splice,0,2
+Cldn18,Cldn18 / CLDN18,Cldn18 / CLDN18,Initiation (I),10,Missense,3,3
+Cldn18,Cldn18 / CLDN18,Cldn18 / CLDN18,Initiation (I),10,Deletion,0,3
+Cldn18,Cldn18 / CLDN18,Cldn18 / CLDN18,Initiation (I),10,Stop gain/loss,0,3
+Cldn18,Cldn18 / CLDN18,Cldn18 / CLDN18,Initiation (I),10,DBS,0,3
+Cldn18,Cldn18 / CLDN18,Cldn18 / CLDN18,Initiation (I),10,Splice,0,3
+Plce1,Plce1 / PLCE1,Plce1 / PLCE1,Initiation (I),11,Missense,2,2
+Plce1,Plce1 / PLCE1,Plce1 / PLCE1,Initiation (I),11,Deletion,0,2
+Plce1,Plce1 / PLCE1,Plce1 / PLCE1,Initiation (I),11,Stop gain/loss,0,2
+Plce1,Plce1 / PLCE1,Plce1 / PLCE1,Initiation (I),11,DBS,0,2
+Plce1,Plce1 / PLCE1,Plce1 / PLCE1,Initiation (I),11,Splice,0,2
+Ppp1r14d,Ppp1r14d / PPP1R14D,Ppp1r14d / PPP1R14D,Initiation (I),12,Missense,0,2
+Ppp1r14d,Ppp1r14d / PPP1R14D,Ppp1r14d / PPP1R14D,Initiation (I),12,Deletion,0,2
+Ppp1r14d,Ppp1r14d / PPP1R14D,Ppp1r14d / PPP1R14D,Initiation (I),12,Stop gain/loss,1,2
+Ppp1r14d,Ppp1r14d / PPP1R14D,Ppp1r14d / PPP1R14D,Initiation (I),12,DBS,0,2
+Ppp1r14d,Ppp1r14d / PPP1R14D,Ppp1r14d / PPP1R14D,Initiation (I),12,Splice,1,2
+Tmprss9,Tmprss9 / TMPRSS9,Tmprss9 / TMPRSS9,Initiation (I),13,Missense,3,3
+Tmprss9,Tmprss9 / TMPRSS9,Tmprss9 / TMPRSS9,Initiation (I),13,Deletion,0,3
+Tmprss9,Tmprss9 / TMPRSS9,Tmprss9 / TMPRSS9,Initiation (I),13,Stop gain/loss,0,3
+Tmprss9,Tmprss9 / TMPRSS9,Tmprss9 / TMPRSS9,Initiation (I),13,DBS,0,3
+Tmprss9,Tmprss9 / TMPRSS9,Tmprss9 / TMPRSS9,Initiation (I),13,Splice,0,3
+Otog,Otog / OTOG,Otog / OTOG,Initiation (I),14,Missense,4,4
+Otog,Otog / OTOG,Otog / OTOG,Initiation (I),14,Deletion,0,4
+Otog,Otog / OTOG,Otog / OTOG,Initiation (I),14,Stop gain/loss,0,4
+Otog,Otog / OTOG,Otog / OTOG,Initiation (I),14,DBS,0,4
+Otog,Otog / OTOG,Otog / OTOG,Initiation (I),14,Splice,0,4
+Rad51b,Rad51b / RAD51B,Rad51b / RAD51B,Initiation (I),15,Missense,2,2
+Rad51b,Rad51b / RAD51B,Rad51b / RAD51B,Initiation (I),15,Deletion,0,2
+Rad51b,Rad51b / RAD51B,Rad51b / RAD51B,Initiation (I),15,Stop gain/loss,0,2
+Rad51b,Rad51b / RAD51B,Rad51b / RAD51B,Initiation (I),15,DBS,0,2
+Rad51b,Rad51b / RAD51B,Rad51b / RAD51B,Initiation (I),15,Splice,0,2
+Aatk,Aatk / AATK,Aatk / AATK,Initiation (I),16,Missense,2,2
+Aatk,Aatk / AATK,Aatk / AATK,Initiation (I),16,Deletion,0,2
+Aatk,Aatk / AATK,Aatk / AATK,Initiation (I),16,Stop gain/loss,0,2
+Aatk,Aatk / AATK,Aatk / AATK,Initiation (I),16,DBS,0,2
+Aatk,Aatk / AATK,Aatk / AATK,Initiation (I),16,Splice,0,2
+Ezh1,Ezh1 / EZH1,Ezh1 / EZH1,Initiation (I),17,Missense,2,2
+Ezh1,Ezh1 / EZH1,Ezh1 / EZH1,Initiation (I),17,Deletion,0,2
+Ezh1,Ezh1 / EZH1,Ezh1 / EZH1,Initiation (I),17,Stop gain/loss,0,2
+Ezh1,Ezh1 / EZH1,Ezh1 / EZH1,Initiation (I),17,DBS,0,2
+Ezh1,Ezh1 / EZH1,Ezh1 / EZH1,Initiation (I),17,Splice,0,2
+Usp3,Usp3 / USP3,Usp3 / USP3,Initiation (I),18,Missense,0,2
+Usp3,Usp3 / USP3,Usp3 / USP3,Initiation (I),18,Deletion,2,2
+Usp3,Usp3 / USP3,Usp3 / USP3,Initiation (I),18,Stop gain/loss,0,2
+Usp3,Usp3 / USP3,Usp3 / USP3,Initiation (I),18,DBS,0,2
+Usp3,Usp3 / USP3,Usp3 / USP3,Initiation (I),18,Splice,0,2
+Kndc1,Kndc1 / KNDC1,Kndc1 / KNDC1,Initiation (I),19,Missense,2,2
+Kndc1,Kndc1 / KNDC1,Kndc1 / KNDC1,Initiation (I),19,Deletion,0,2
+Kndc1,Kndc1 / KNDC1,Kndc1 / KNDC1,Initiation (I),19,Stop gain/loss,0,2
+Kndc1,Kndc1 / KNDC1,Kndc1 / KNDC1,Initiation (I),19,DBS,0,2
+Kndc1,Kndc1 / KNDC1,Kndc1 / KNDC1,Initiation (I),19,Splice,0,2
+Spats2l,Spats2l / SPATS2L,Spats2l / SPATS2L,Initiation (I),20,Missense,0,2
+Spats2l,Spats2l / SPATS2L,Spats2l / SPATS2L,Initiation (I),20,Deletion,0,2
+Spats2l,Spats2l / SPATS2L,Spats2l / SPATS2L,Initiation (I),20,Stop gain/loss,1,2
+Spats2l,Spats2l / SPATS2L,Spats2l / SPATS2L,Initiation (I),20,DBS,0,2
+Spats2l,Spats2l / SPATS2L,Spats2l / SPATS2L,Initiation (I),20,Splice,1,2
+Foxp4,Foxp4 / FOXP4,Foxp4 / FOXP4,Initiation (I),21,Missense,1,2
+Foxp4,Foxp4 / FOXP4,Foxp4 / FOXP4,Initiation (I),21,Deletion,0,2
+Foxp4,Foxp4 / FOXP4,Foxp4 / FOXP4,Initiation (I),21,Stop gain/loss,0,2
+Foxp4,Foxp4 / FOXP4,Foxp4 / FOXP4,Initiation (I),21,DBS,0,2
+Foxp4,Foxp4 / FOXP4,Foxp4 / FOXP4,Initiation (I),21,Splice,1,2
+Pkp4,Pkp4 / PKP4,Pkp4 / PKP4,Initiation (I),22,Missense,2,2
+Pkp4,Pkp4 / PKP4,Pkp4 / PKP4,Initiation (I),22,Deletion,0,2
+Pkp4,Pkp4 / PKP4,Pkp4 / PKP4,Initiation (I),22,Stop gain/loss,0,2
+Pkp4,Pkp4 / PKP4,Pkp4 / PKP4,Initiation (I),22,DBS,0,2
+Pkp4,Pkp4 / PKP4,Pkp4 / PKP4,Initiation (I),22,Splice,0,2
+Arid2,Arid2 / ARID2,Arid2 / ARID2,I+P,23,Missense,1,3
+Arid2,Arid2 / ARID2,Arid2 / ARID2,I+P,23,Deletion,0,3
+Arid2,Arid2 / ARID2,Arid2 / ARID2,I+P,23,Stop gain/loss,0,3
+Arid2,Arid2 / ARID2,Arid2 / ARID2,I+P,23,DBS,0,3
+Arid2,Arid2 / ARID2,Arid2 / ARID2,I+P,23,Splice,2,3
+Pard3,Pard3 / PARD3,Pard3 / PARD3,Predisposition,24,Missense,5,5
+Pard3,Pard3 / PARD3,Pard3 / PARD3,Predisposition,24,Deletion,0,5
+Pard3,Pard3 / PARD3,Pard3 / PARD3,Predisposition,24,Stop gain/loss,0,5
+Pard3,Pard3 / PARD3,Pard3 / PARD3,Predisposition,24,DBS,0,5
+Pard3,Pard3 / PARD3,Pard3 / PARD3,Predisposition,24,Splice,0,5
+Huwe1,Huwe1 / HUWE1,Huwe1 / HUWE1,Predisposition,25,Missense,4,7
+Huwe1,Huwe1 / HUWE1,Huwe1 / HUWE1,Predisposition,25,Deletion,2,7
+Huwe1,Huwe1 / HUWE1,Huwe1 / HUWE1,Predisposition,25,Stop gain/loss,1,7
+Huwe1,Huwe1 / HUWE1,Huwe1 / HUWE1,Predisposition,25,DBS,0,7
+Huwe1,Huwe1 / HUWE1,Huwe1 / HUWE1,Predisposition,25,Splice,0,7
+Ptch1,Ptch1 / PTCH1,Ptch1 / PTCH1,Predisposition,26,Missense,1,7
+Ptch1,Ptch1 / PTCH1,Ptch1 / PTCH1,Predisposition,26,Deletion,3,7
+Ptch1,Ptch1 / PTCH1,Ptch1 / PTCH1,Predisposition,26,Stop gain/loss,0,7
+Ptch1,Ptch1 / PTCH1,Ptch1 / PTCH1,Predisposition,26,DBS,2,7
+Ptch1,Ptch1 / PTCH1,Ptch1 / PTCH1,Predisposition,26,Splice,1,7
+Erbb2,Erbb2 / ERBB2,Erbb2 / ERBB2,Predisposition,27,Missense,4,5
+Erbb2,Erbb2 / ERBB2,Erbb2 / ERBB2,Predisposition,27,Deletion,0,5
+Erbb2,Erbb2 / ERBB2,Erbb2 / ERBB2,Predisposition,27,Stop gain/loss,1,5
+Erbb2,Erbb2 / ERBB2,Erbb2 / ERBB2,Predisposition,27,DBS,0,5
+Erbb2,Erbb2 / ERBB2,Erbb2 / ERBB2,Predisposition,27,Splice,0,5
+Csmd2,Csmd2 / CSMD2,Csmd2 / CSMD2,Predisposition,28,Missense,6,7
+Csmd2,Csmd2 / CSMD2,Csmd2 / CSMD2,Predisposition,28,Deletion,0,7
+Csmd2,Csmd2 / CSMD2,Csmd2 / CSMD2,Predisposition,28,Stop gain/loss,0,7
+Csmd2,Csmd2 / CSMD2,Csmd2 / CSMD2,Predisposition,28,DBS,0,7
+Csmd2,Csmd2 / CSMD2,Csmd2 / CSMD2,Predisposition,28,Splice,1,7
+Lrp1b,Lrp1b / LRP1B,Lrp1b / LRP1B,Predisposition,29,Missense,6,6
+Lrp1b,Lrp1b / LRP1B,Lrp1b / LRP1B,Predisposition,29,Deletion,0,6
+Lrp1b,Lrp1b / LRP1B,Lrp1b / LRP1B,Predisposition,29,Stop gain/loss,0,6
+Lrp1b,Lrp1b / LRP1B,Lrp1b / LRP1B,Predisposition,29,DBS,0,6
+Lrp1b,Lrp1b / LRP1B,Lrp1b / LRP1B,Predisposition,29,Splice,0,6
+Psme4,Psme4 / PSME4,Psme4 / PSME4,Predisposition,30,Missense,3,6
+Psme4,Psme4 / PSME4,Psme4 / PSME4,Predisposition,30,Deletion,0,6
+Psme4,Psme4 / PSME4,Psme4 / PSME4,Predisposition,30,Stop gain/loss,1,6
+Psme4,Psme4 / PSME4,Psme4 / PSME4,Predisposition,30,DBS,1,6
+Psme4,Psme4 / PSME4,Psme4 / PSME4,Predisposition,30,Splice,1,6

@@ -1,0 +1,8 @@
+endpoint_id,analysis_scope,endpoint_label,source_endpoint_id,excluded_study_id,included_study_ids,endpoint_order
+focused_all_cohorts,All cohorts,All cohorts,sample_type_pooled,NA,cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ucsf_2021;cscc_ranson_2022,1
+focused_explicit_field,Explicit SAMPLE_TYPE field,Explicit SAMPLE_TYPE,sample_type_explicit,NA,cscc_hgsc_bcm_2014;cscc_ranson_2022,2
+focused_hgsc_only,HGSC within-study,HGSC only,sample_type_hgsc,NA,cscc_hgsc_bcm_2014,3
+focused_leave_out_dfci,Leave-one-cohort-out,All except DFCI,sample_type_pooled,cscc_dfarber_2015,cscc_hgsc_bcm_2014;cscc_ucsf_2021;cscc_ranson_2022,4
+focused_leave_out_hgsc,Leave-one-cohort-out,All except HGSC,sample_type_pooled,cscc_hgsc_bcm_2014,cscc_dfarber_2015;cscc_ucsf_2021;cscc_ranson_2022,5
+focused_leave_out_ranson,Leave-one-cohort-out,All except Ranson,sample_type_pooled,cscc_ranson_2022,cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ucsf_2021,6
+focused_leave_out_ucsf,Leave-one-cohort-out,All except UCSF,sample_type_pooled,cscc_ucsf_2021,cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ranson_2022,7

@@ -1,0 +1,15 @@
+composition_group,mutation_nature,n,total,pct
+Adjacent,Synonymous,36,340,0.10588235294117647
+Adjacent,Gene-flanking,213,340,0.6264705882352941
+Adjacent,Insertion,6,340,0.01764705882352941
+Adjacent,Deletion,14,340,0.041176470588235294
+Adjacent,DBS,6,340,0.01764705882352941
+Adjacent,Missense,62,340,0.18235294117647058
+Adjacent,Stop gain/loss,3,340,0.008823529411764706
+Distal,Synonymous,28,279,0.1003584229390681
+Distal,Gene-flanking,187,279,0.6702508960573477
+Distal,Insertion,4,279,0.014336917562724014
+Distal,Deletion,12,279,0.043010752688172046
+Distal,DBS,5,279,0.017921146953405017
+Distal,Missense,43,279,0.15412186379928317
+Distal,Stop gain/loss,0,279,0

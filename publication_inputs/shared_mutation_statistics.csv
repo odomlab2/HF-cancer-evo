@@ -1,0 +1,3 @@
+statistic,numerator,denominator,exact_percentage,rounded_percentage,denominator_scope
+overall_hf_skin_sharing,214,8133,2.6312553793188247,2.63,union
+tumour_skin_mutations_detected_in_earlier_hf,115,953,12.067156348373556,12.1,skin

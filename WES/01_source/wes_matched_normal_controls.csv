@@ -1,0 +1,5 @@
+sample_name,mouse,tissue,role,mutation_output_expected,callable_expected
+liver03,3,Liver,matched_normal,FALSE,TRUE
+liver04,4,Liver,matched_normal,FALSE,TRUE
+liver05,5,Liver,matched_normal,FALSE,TRUE
+liver09,9,Liver,matched_normal,FALSE,TRUE

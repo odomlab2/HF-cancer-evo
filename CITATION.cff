@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this analysis snapshot, please cite the submitted manuscript."
+title: "HF cancer evolution submitted-manuscript analysis snapshot"
+type: software
+authors:
+  - family-names: "Avi-Guy"
+    given-names: "Yoav"
+preferred-citation:
+  type: article
+  title: "Non-invasive forecasting of skin cancer evolution through longitudinal hair sampling"
+  authors:
+    - family-names: "Del Prete"
+      given-names: "Stefania"
+    - family-names: "Avi-Guy"
+      given-names: "Yoav"
+    - family-names: "Xu"
+      given-names: "Fu"
+    - family-names: "Weser"
+      given-names: "Sabrina"
+    - family-names: "Bekavac"
+      given-names: "Milica"
+    - family-names: "Koch"
+      given-names: "Marie-Luise"
+    - family-names: "Coraggio"
+      given-names: "Francesca"
+    - family-names: "Coimbra"
+      given-names: "Raphael"
+    - family-names: "Popis"
+      given-names: "Martyna"
+    - family-names: "Goncalves"
+      given-names: "Angela"
+    - family-names: "Behm"
+      given-names: "Mikaela"
+    - family-names: "Odom"
+      given-names: "Duncan T."
+    - family-names: "Frye"
+      given-names: "Michaela"

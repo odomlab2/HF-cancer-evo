@@ -1,0 +1,43 @@
+mouse,grid,early_sample_name,early_timepoint,later_compartment,n_detected_later,total_early_mutations,pct_detected_later
+21,b6,hairfollicle21-b6-w14,Week 14,Later HF,1,402,0.0024875621890547263
+21,b6,hairfollicle21-b6-w14,Week 14,Skin,4,402,0.009950248756218905
+21,b6,hairfollicle21-b6-w8,Week 8,Later HF,8,260,0.03076923076923077
+21,b6,hairfollicle21-b6-w8,Week 8,Skin,6,260,0.023076923076923078
+21,b7,hairfollicle21-b7-w14,Week 14,Later HF,0,11,0
+21,b7,hairfollicle21-b7-w14,Week 14,Skin,0,11,0
+21,b7,hairfollicle21-b7-w8,Week 8,Later HF,3,296,0.010135135135135136
+21,b7,hairfollicle21-b7-w8,Week 8,Skin,1,296,0.0033783783783783786
+21,c6,hairfollicle21-c6-w14,Week 14,Later HF,1,198,0.005050505050505051
+21,c6,hairfollicle21-c6-w14,Week 14,Skin,9,198,0.045454545454545456
+21,c6,hairfollicle21-c6-w8,Week 8,Later HF,12,195,0.06153846153846154
+21,c6,hairfollicle21-c6-w8,Week 8,Skin,4,195,0.020512820512820513
+21,c7,hairfollicle21-c7-w14,Week 14,Later HF,2,35,0.05714285714285714
+21,c7,hairfollicle21-c7-w14,Week 14,Skin,0,35,0
+21,c7,hairfollicle21-c7-w8,Week 8,Later HF,5,309,0.016181229773462782
+21,c7,hairfollicle21-c7-w8,Week 8,Skin,4,309,0.012944983818770227
+21,e3,hairfollicle21-e3-w14,Week 14,Later HF,3,476,0.0063025210084033615
+21,e3,hairfollicle21-e3-w14,Week 14,Skin,3,476,0.0063025210084033615
+21,e3,hairfollicle21-e3-w8,Week 8,Later HF,5,79,0.06329113924050633
+21,e3,hairfollicle21-e3-w8,Week 8,Skin,3,79,0.0379746835443038
+21,e4,hairfollicle21-e4-w14,Week 14,Later HF,1,149,0.006711409395973154
+21,e4,hairfollicle21-e4-w14,Week 14,Skin,10,149,0.06711409395973154
+21,e4,hairfollicle21-e4-w8,Week 8,Later HF,3,67,0.04477611940298507
+21,e4,hairfollicle21-e4-w8,Week 8,Skin,2,67,0.029850746268656716
+21,f3,hairfollicle21-f3-w8,Week 8,Later HF,2,51,0.0392156862745098
+21,f3,hairfollicle21-f3-w8,Week 8,Skin,2,51,0.0392156862745098
+21,f4,hairfollicle21-f4-w8,Week 8,Later HF,3,68,0.04411764705882353
+21,f4,hairfollicle21-f4-w8,Week 8,Skin,0,68,0
+21,f6,hairfollicle21-f6-w14,Week 14,Later HF,3,81,0.037037037037037035
+21,f6,hairfollicle21-f6-w14,Week 14,Skin,0,81,0
+21,f6,hairfollicle21-f6-w8,Week 8,Later HF,14,231,0.06060606060606061
+21,f6,hairfollicle21-f6-w8,Week 8,Skin,0,231,0
+21,g3,hairfollicle21-g3-w14,Week 14,Later HF,1,41,0.024390243902439025
+21,g3,hairfollicle21-g3-w14,Week 14,Skin,1,41,0.024390243902439025
+21,g3,hairfollicle21-g3-w8,Week 8,Later HF,2,14,0.14285714285714285
+21,g3,hairfollicle21-g3-w8,Week 8,Skin,0,14,0
+21,g4,hairfollicle21-g4-w14,Week 14,Later HF,2,65,0.03076923076923077
+21,g4,hairfollicle21-g4-w14,Week 14,Skin,0,65,0
+21,g4,hairfollicle21-g4-w8,Week 8,Later HF,4,54,0.07407407407407407
+21,g4,hairfollicle21-g4-w8,Week 8,Skin,4,54,0.07407407407407407
+21,g6,hairfollicle21-g6-w8,Week 8,Later HF,1,9,0.1111111111111111
+21,g6,hairfollicle21-g6-w8,Week 8,Skin,0,9,0

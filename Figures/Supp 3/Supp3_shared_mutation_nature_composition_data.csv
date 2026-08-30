@@ -1,0 +1,50 @@
+shared_group,mutation_nature,n,total,pct
+"TES
+Shared with skin",Synonymous,5,115,0.043478260869565216
+"TES
+Shared with skin",Gene-flanking,88,115,0.7652173913043478
+"TES
+Shared with skin",Insertion,4,115,0.034782608695652174
+"TES
+Shared with skin",Deletion,12,115,0.10434782608695652
+"TES
+Shared with skin",DBS,0,115,0
+"TES
+Shared with skin",Missense,6,115,0.05217391304347826
+"TES
+Shared with skin",Stop gain/loss,0,115,0
+"TES
+Shared with hair follicles
+from different weeks",Synonymous,27,178,0.15168539325842698
+"TES
+Shared with hair follicles
+from different weeks",Gene-flanking,105,178,0.5898876404494382
+"TES
+Shared with hair follicles
+from different weeks",Insertion,0,178,0
+"TES
+Shared with hair follicles
+from different weeks",Deletion,27,178,0.15168539325842698
+"TES
+Shared with hair follicles
+from different weeks",DBS,0,178,0
+"TES
+Shared with hair follicles
+from different weeks",Missense,19,178,0.10674157303370786
+"TES
+Shared with hair follicles
+from different weeks",Stop gain/loss,0,178,0
+"WES
+Shared with skin",Synonymous,48,460,0.10434782608695652
+"WES
+Shared with skin",Gene-flanking,294,460,0.6391304347826087
+"WES
+Shared with skin",Insertion,6,460,0.013043478260869565
+"WES
+Shared with skin",Deletion,23,460,0.05
+"WES
+Shared with skin",DBS,8,460,0.017391304347826087
+"WES
+Shared with skin",Missense,77,460,0.1673913043478261
+"WES
+Shared with skin",Stop gain/loss,4,460,0.008695652173913044

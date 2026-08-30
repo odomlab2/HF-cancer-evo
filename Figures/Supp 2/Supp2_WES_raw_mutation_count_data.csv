@@ -1,0 +1,49 @@
+sample_name,tissue,treatment,category,last_cycle,callable_mbp,coverage,mutations
+hairfollicle03-a3,Hair follicle,DT,Visually normal,TRUE,16.615241,7.29,106
+hairfollicle03-c5,Hair follicle,DT,Visually normal,TRUE,0.216272,1.3,6
+hairfollicle03-e6,Hair follicle,DT,Visually normal,TRUE,1.261932,4.37,21
+hairfollicle03-e7,Hair follicle,DT,Visually normal,TRUE,0.144657,0.93,2
+hairfollicle03-f5,Hair follicle,DT,Visually normal,TRUE,0.107122,0.52,1
+hairfollicle03-f6-t2,Hair follicle,DT,Papilloma,TRUE,12.540747,8.07,32
+hairfollicle03-f7-t2,Hair follicle,DT,Visually normal,TRUE,0.073316,0.57,0
+hairfollicle03-g6-t2,Hair follicle,DT,Visually normal,TRUE,0.11354,1.2,1
+hairfollicle04-b5-t2,Hair follicle,DT,Visually normal,TRUE,0.150859,1.31,0
+hairfollicle04-b6-t2,Hair follicle,DT,Visually normal,TRUE,0.184553,1.47,0
+hairfollicle04-c2-t3,Hair follicle,DT,Papilloma,TRUE,107.616319,243.05,1051
+hairfollicle04-c4-t3,Hair follicle,DT,Papilloma,TRUE,122.710663,129.71,904
+hairfollicle04-c5-t3,Hair follicle,DT,Papilloma,TRUE,121.462999,247.02,1249
+hairfollicle04-c6-t3,Hair follicle,DT,Visually normal,TRUE,108.851657,131.97,1532
+hairfollicle04-g2-t2,Hair follicle,DT,Visually normal,TRUE,0.895896,4.29,63
+hairfollicle05-a6-t2,Hair follicle,DT,Visually normal,TRUE,0.408815,3.52,28
+hairfollicle05-b1-t3,Hair follicle,DT,Visually normal,TRUE,61.643811,31.16,1281
+hairfollicle05-b5-t3,Hair follicle,DT,Visually normal,TRUE,94.093879,66.05,1260
+hairfollicle05-b6-t2,Hair follicle,DT,Papilloma,TRUE,0.551659,3.87,20
+hairfollicle05-b7-t2,Hair follicle,DT,Papilloma,TRUE,0.104284,0.66,7
+hairfollicle05-c6,Hair follicle,DT,Visually normal,TRUE,15.291907,8.71,36
+hairfollicle05-c7-t2,Hair follicle,DT,Visually normal,TRUE,75.628571,43.25,2465
+hairfollicle05-e5-t3,Hair follicle,DT,Visually normal,TRUE,101.147138,184.75,2703
+hairfollicle09-b2-t2,Hair follicle,Acetone,Acetone,TRUE,0.257386,2.79,34
+skin03-c5,Skin,DT,Visually normal,TRUE,34.428431,14.44,6
+skin03-e6,Skin,DT,Visually normal,TRUE,38.010089,15.94,13
+skin03-e7,Skin,DT,Visually normal,TRUE,43.79121,19.63,17
+skin03-f5,Skin,DT,Visually normal,TRUE,36.567554,15.21,9
+skin03-f6,Skin,DT,Papilloma,TRUE,36.848533,16.07,17
+skin03-f7,Skin,DT,Visually normal,TRUE,37.877162,15.88,5
+skin03-g6,Skin,DT,Visually normal,TRUE,40.944261,17.24,7
+skin04-b5,Skin,DT,Visually normal,TRUE,38.569757,16.33,12
+skin04-b6,Skin,DT,Visually normal,TRUE,36.794032,16.16,2
+skin04-c2-t2,Skin,DT,Papilloma,TRUE,98.473392,339.82,634
+skin04-c4-t2,Skin,DT,Papilloma,TRUE,97.291475,268.71,671
+skin04-c5-t2,Skin,DT,Papilloma,TRUE,93.350124,265.26,1674
+skin04-c6-t2,Skin,DT,Visually normal,TRUE,94.343243,241.86,1550
+skin04-g2,Skin,DT,Visually normal,TRUE,42.733617,18.89,7
+skin05-a6,Skin,DT,Visually normal,TRUE,40.751345,18.2,12
+skin05-b1-t2,Skin,DT,Visually normal,TRUE,91.655366,296.21,407
+skin05-b5-t2,Skin,DT,Visually normal,TRUE,93.312696,310.82,458
+skin05-b6,Skin,DT,Papilloma,TRUE,45.841328,20.81,10
+skin05-b7,Skin,DT,Papilloma,TRUE,46.100036,20.76,12
+skin05-c6,Skin,DT,Visually normal,TRUE,48.326091,22.52,26
+skin05-c7-t2,Skin,DT,Visually normal,TRUE,102.788279,400.92,466
+skin05-e5-t2,Skin,DT,Visually normal,TRUE,95.679679,271.58,726
+skin09-a4,Skin,Acetone,Acetone,TRUE,53.306595,27,6
+skin09-b2,Skin,Acetone,Acetone,TRUE,48.775652,23.5,12

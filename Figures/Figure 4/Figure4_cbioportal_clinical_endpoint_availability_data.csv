@@ -1,0 +1,32 @@
+endpoint_id,analysis_family,analysis_scope,endpoint_label,endpoint_order,clinical_attribute,reference_group,case_group,study_id,n_samples_total,n_samples_analysed,n_reference,n_case,n_excluded,excluded_raw_values,n_with_ajcc_staging_edition,availability_level
+sample_type_pooled,Primary / metastatic,Pooled primary analysis,Primary vs metastatic (all cohorts),1,SAMPLE_TYPE plus study design,Primary,Metastasis,All included studies,176,176,115,61,0,,21,Endpoint
+sample_type_pooled,Primary / metastatic,Pooled primary analysis,Primary vs metastatic (all cohorts),1,SAMPLE_TYPE plus study design,Primary,Metastasis,cscc_dfarber_2015,29,29,0,29,0,,0,Study
+sample_type_pooled,Primary / metastatic,Pooled primary analysis,Primary vs metastatic (all cohorts),1,SAMPLE_TYPE plus study design,Primary,Metastasis,cscc_hgsc_bcm_2014,39,39,32,7,0,,21,Study
+sample_type_pooled,Primary / metastatic,Pooled primary analysis,Primary vs metastatic (all cohorts),1,SAMPLE_TYPE plus study design,Primary,Metastasis,cscc_ranson_2022,25,25,0,25,0,,0,Study
+sample_type_pooled,Primary / metastatic,Pooled primary analysis,Primary vs metastatic (all cohorts),1,SAMPLE_TYPE plus study design,Primary,Metastasis,cscc_ucsf_2021,83,83,83,0,0,,0,Study
+sample_type_explicit,Primary / metastatic,Explicit-field sensitivity,Primary vs metastatic (explicit field),2,SAMPLE_TYPE,Primary,Metastasis,All included studies,64,64,32,32,0,,21,Endpoint
+sample_type_explicit,Primary / metastatic,Explicit-field sensitivity,Primary vs metastatic (explicit field),2,SAMPLE_TYPE,Primary,Metastasis,cscc_hgsc_bcm_2014,39,39,32,7,0,,21,Study
+sample_type_explicit,Primary / metastatic,Explicit-field sensitivity,Primary vs metastatic (explicit field),2,SAMPLE_TYPE,Primary,Metastasis,cscc_ranson_2022,25,25,0,25,0,,0,Study
+sample_type_hgsc,Primary / metastatic,Within-study sensitivity,Primary vs metastatic (HGSC),3,SAMPLE_TYPE,Primary,Metastasis,All included studies,39,39,32,7,0,,21,Endpoint
+sample_type_hgsc,Primary / metastatic,Within-study sensitivity,Primary vs metastatic (HGSC),3,SAMPLE_TYPE,Primary,Metastasis,cscc_hgsc_bcm_2014,39,39,32,7,0,,21,Study
+hgsc_t_stage,Disease aggressiveness,Within-study,HGSC T stage,4,T_STAGE,T1/T2,T3/T4,All included studies,39,27,20,7,12,pTx;rTx;Tx,21,Endpoint
+hgsc_t_stage,Disease aggressiveness,Within-study,HGSC T stage,4,T_STAGE,T1/T2,T3/T4,cscc_hgsc_bcm_2014,39,27,20,7,12,pTx;rTx;Tx,21,Study
+hgsc_n_stage,Disease aggressiveness,Within-study,HGSC N stage,5,N_STAGE,N0,N1,All included studies,39,39,34,5,0,,21,Endpoint
+hgsc_n_stage,Disease aggressiveness,Within-study,HGSC N stage,5,N_STAGE,N0,N1,cscc_hgsc_bcm_2014,39,39,34,5,0,,21,Study
+hgsc_m_stage,Disease aggressiveness,Within-study,HGSC M stage,6,M_STAGE,M0,M1,All included studies,39,39,32,7,0,,21,Endpoint
+hgsc_m_stage,Disease aggressiveness,Within-study,HGSC M stage,6,M_STAGE,M0,M1,cscc_hgsc_bcm_2014,39,39,32,7,0,,21,Study
+hgsc_recurrence_persistence,Disease aggressiveness,Within-study,HGSC recurrence / persistence,7,DISEASE_RECURRENCE_OR_PERSISTENCE,No,Yes,All included studies,39,37,23,14,2,N.D.,21,Endpoint
+hgsc_recurrence_persistence,Disease aggressiveness,Within-study,HGSC recurrence / persistence,7,DISEASE_RECURRENCE_OR_PERSISTENCE,No,Yes,cscc_hgsc_bcm_2014,39,37,23,14,2,N.D.,21,Study
+hgsc_efs_status,Disease aggressiveness,Within-study,HGSC event-free status,8,EFS_STATUS,Censored,Event,All included studies,39,32,11,21,7,,21,Endpoint
+hgsc_efs_status,Disease aggressiveness,Within-study,HGSC event-free status,8,EFS_STATUS,Censored,Event,cscc_hgsc_bcm_2014,39,32,11,21,7,,21,Study
+ranson_nodal_stage,Disease aggressiveness,Within-study,Ranson nodal stage,9,NODAL_STAGE,N1/N2,N3,All included studies,25,25,6,19,0,,0,Endpoint
+ranson_nodal_stage,Disease aggressiveness,Within-study,Ranson nodal stage,9,NODAL_STAGE,N1/N2,N3,cscc_ranson_2022,25,25,6,19,0,,0,Study
+ranson_grade,Disease aggressiveness,Within-study,Ranson grade,10,GRADE,Grade 1/2,Grade 3,All included studies,25,21,6,15,4,Not Stated,0,Endpoint
+ranson_grade,Disease aggressiveness,Within-study,Ranson grade,10,GRADE,Grade 1/2,Grade 3,cscc_ranson_2022,25,21,6,15,4,Not Stated,0,Study
+ranson_extracapsular_spread,Disease aggressiveness,Within-study,Ranson extracapsular spread,11,EXTRACAPSULAR_SPREAD,No,Yes,All included studies,25,23,5,18,2,Not Stated,0,Endpoint
+ranson_extracapsular_spread,Disease aggressiveness,Within-study,Ranson extracapsular spread,11,EXTRACAPSULAR_SPREAD,No,Yes,cscc_ranson_2022,25,23,5,18,2,Not Stated,0,Study
+dfci_dfs_status,Disease aggressiveness,Within-study,DFCI disease-free status,12,DFS_STATUS,Disease free,Recurred / progressed,All included studies,29,29,18,11,0,,0,Endpoint
+dfci_dfs_status,Disease aggressiveness,Within-study,DFCI disease-free status,12,DFS_STATUS,Disease free,Recurred / progressed,cscc_dfarber_2015,29,29,18,11,0,,0,Study
+recurrence_pooled,Recurrence / progression,Pooled study-adjusted primary analysis,Disease-free vs recurrent / progressed (DFCI + HGSC),13,DFS_STATUS or DISEASE_RECURRENCE_OR_PERSISTENCE,Disease free,Recurred / progressed,All included studies,68,66,41,25,2,N.D.,21,Endpoint
+recurrence_pooled,Recurrence / progression,Pooled study-adjusted primary analysis,Disease-free vs recurrent / progressed (DFCI + HGSC),13,DFS_STATUS or DISEASE_RECURRENCE_OR_PERSISTENCE,Disease free,Recurred / progressed,cscc_dfarber_2015,29,29,18,11,0,,0,Study
+recurrence_pooled,Recurrence / progression,Pooled study-adjusted primary analysis,Disease-free vs recurrent / progressed (DFCI + HGSC),13,DFS_STATUS or DISEASE_RECURRENCE_OR_PERSISTENCE,Disease free,Recurred / progressed,cscc_hgsc_bcm_2014,39,37,23,14,2,N.D.,21,Study

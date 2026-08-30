@@ -1,0 +1,2 @@
+n_iterations,n_candidate_genes,universe_genes,observed_median_incidence_pct,null_mean,null_median,null_q2.5,null_q97.5,empirical_p_upper,empirical_p_lower,empirical_p_two_sided
+10000,30,18517,13.95,5.094905,5.1,3.4,7.5,9.999000099990002e-5,1,1.9998000199980003e-4

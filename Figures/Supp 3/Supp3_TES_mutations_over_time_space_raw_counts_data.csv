@@ -1,0 +1,13 @@
+plot_timepoint,sharing_class,n_mutations,total_week_mutations,pct_week_mutations
+Week 8,Shared with SK,82,2121,0.03866100895803866
+Week 8,Shared with later HF,258,2121,0.12164073550212164
+Week 8,Shared with earlier HF,0,2121,0
+Week 8,Non-shared,1844,2121,0.8694012258368694
+Week 14,Shared with SK,126,1803,0.06988352745424292
+Week 14,Shared with later HF,209,1803,0.11591791458679977
+Week 14,Shared with earlier HF,224,1803,0.12423738214087632
+Week 14,Non-shared,1460,1803,0.8097615085967831
+Week 17,Shared with SK,107,814,0.13144963144963145
+Week 17,Shared with later HF,0,814,0
+Week 17,Shared with earlier HF,236,814,0.28992628992628994
+Week 17,Non-shared,547,814,0.671990171990172

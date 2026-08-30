@@ -1,0 +1,21 @@
+ttoa_group,ta_class,n,total,pct
+"WES
+Adjacent mutations",Other,286,340,0.8411764705882353
+"WES
+Adjacent mutations",T>A,54,340,0.1588235294117647
+"WES
+Distal mutations",Other,253,279,0.9068100358422939
+"WES
+Distal mutations",T>A,26,279,0.0931899641577061
+"TES
+Week 8 shared mutations",Other,172,181,0.9502762430939227
+"TES
+Week 8 shared mutations",T>A,9,181,0.049723756906077346
+"TES
+Week 14 shared mutations",Other,201,212,0.9481132075471698
+"TES
+Week 14 shared mutations",T>A,11,212,0.05188679245283019
+"TES
+Week 17 shared mutations",Other,164,176,0.9318181818181818
+"TES
+Week 17 shared mutations",T>A,12,176,0.06818181818181818

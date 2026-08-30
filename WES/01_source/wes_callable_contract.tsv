@@ -1,0 +1,2 @@
+assay	min_depth	mapq	base_quality	expected_sample_count	callable_column
+WES	10	20	20	88	overall_callable_10x

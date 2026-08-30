@@ -1,0 +1,42 @@
+# Directories
+**/02_data/00_raw/downsampled_skin/rows/
+**/02_data/02_processed/callable_bases/
+**/02_data/02_processed/mutation_annotation/
+**/02_data/02_processed/mutation_calling/
+**/04_results/01_plots/
+**/05_tmp/
+**/Archived
+
+# Files
+**/02_data/00_raw/samples copy.txt
+**/02_data/02_processed/mutations_annotated.rds
+**/02_data/02_processed/mutations_df.rds
+**/02_data/02_processed/dnds*.rds
+Figures/tes*
+Figures/wes*
+/TES/**/*.rds
+/WES/**/*.rds
+
+# File types
+*.e
+*.o
+*.html
+*.fa
+*.lock
+*.rda
+*.rds
+*.pdf
+*.png
+*.Rmd
+*.rmd
+*.bam
+*.bai
+
+# Public reproduction output
+/public-output/
+/outputs/
+
+# Codex
+*.vscode
+*.codex
+*AGENTS.md

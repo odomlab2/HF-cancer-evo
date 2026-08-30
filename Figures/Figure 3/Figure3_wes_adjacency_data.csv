@@ -1,0 +1,22 @@
+n_shared,distance,adjacency,hf_callable_mbp,hf_coverage,sk_callable_mbp,sk_coverage,hf_category,sk_category
+2,4,Distal,16.615241,7.29,43.79121,19.63,Visually normal,Visually normal
+3,1,Adjacent,12.540747,8.07,38.010089,15.94,Papilloma,Visually normal
+1,3,Distal,12.540747,8.07,34.428431,14.44,Papilloma,Visually normal
+113,0,Adjacent,107.616319,243.05,98.473392,339.82,Papilloma,Papilloma
+109,4,Distal,107.616319,243.05,94.343243,241.86,Papilloma,Visually normal
+93,1,Adjacent,122.710663,129.71,93.350124,265.26,Papilloma,Papilloma
+92,2,Distal,122.710663,129.71,94.343243,241.86,Papilloma,Visually normal
+129,0,Adjacent,121.462999,247.02,93.350124,265.26,Papilloma,Papilloma
+99,3,Distal,121.462999,247.02,98.473392,339.82,Papilloma,Papilloma
+102,0,Adjacent,108.851657,131.97,94.343243,241.86,Visually normal,Visually normal
+91,4,Distal,108.851657,131.97,98.473392,339.82,Visually normal,Papilloma
+56,0,Adjacent,61.643811,31.16,91.655366,296.21,Visually normal,Visually normal
+52,4,Distal,61.643811,31.16,95.679679,271.58,Visually normal,Visually normal
+79,0,Adjacent,94.093879,66.05,93.312696,310.82,Visually normal,Visually normal
+84,2,Distal,94.093879,66.05,102.788279,400.92,Visually normal,Visually normal
+14,1,Adjacent,15.291907,8.71,102.788279,400.92,Visually normal,Visually normal
+14,5,Distal,15.291907,8.71,91.655366,296.21,Visually normal,Visually normal
+86,0,Adjacent,75.628571,43.25,102.788279,400.92,Visually normal,Visually normal
+71,2,Distal,75.628571,43.25,95.679679,271.58,Visually normal,Visually normal
+93,0,Adjacent,101.147138,184.75,95.679679,271.58,Visually normal,Visually normal
+95,2,Distal,101.147138,184.75,102.788279,400.92,Visually normal,Visually normal

@@ -1,0 +1,49 @@
+sample_name,tissue,treatment,muts_per_mbp
+hairfollicle03-a3,Hair follicle,DT,6.379684772553103
+hairfollicle03-c5,Hair follicle,DT,27.74284234667456
+hairfollicle03-e6,Hair follicle,DT,16.641150236304334
+hairfollicle03-e7,Hair follicle,DT,13.825808636982655
+hairfollicle03-f5,Hair follicle,DT,9.33515057597879
+hairfollicle03-f6-t2,Hair follicle,DT,2.5516821286642655
+hairfollicle03-f7-t2,Hair follicle,DT,0
+hairfollicle03-g6-t2,Hair follicle,DT,8.807468733485996
+hairfollicle04-b5-t2,Hair follicle,DT,0
+hairfollicle04-b6-t2,Hair follicle,DT,0
+hairfollicle04-c2-t3,Hair follicle,DT,9.766176819335364
+hairfollicle04-c4-t3,Hair follicle,DT,7.36692295436461
+hairfollicle04-c5-t3,Hair follicle,DT,10.282966914064094
+hairfollicle04-c6-t3,Hair follicle,DT,14.074200083146184
+hairfollicle04-g2-t2,Hair follicle,DT,70.32066221972192
+hairfollicle05-a6-t2,Hair follicle,DT,68.49063757445299
+hairfollicle05-b1-t3,Hair follicle,DT,20.78067496508287
+hairfollicle05-b5-t3,Hair follicle,DT,13.390881674673015
+hairfollicle05-b6-t2,Hair follicle,DT,36.25428027096449
+hairfollicle05-b7-t2,Hair follicle,DT,67.12439108588086
+hairfollicle05-c6,Hair follicle,DT,2.354186433385973
+hairfollicle05-c7-t2,Hair follicle,DT,32.593502262524574
+hairfollicle05-e5-t3,Hair follicle,DT,26.72344520514263
+hairfollicle09-b2-t2,Hair follicle,Acetone,132.09731687038146
+skin03-c5,Skin,DT,0.17427456975892974
+skin03-e6,Skin,DT,0.34201445831921096
+skin03-e7,Skin,DT,0.3882057609278209
+skin03-f5,Skin,DT,0.24611982524179768
+skin03-f6,Skin,DT,0.46134808134695615
+skin03-f7,Skin,DT,0.13200566610560738
+skin03-g6,Skin,DT,0.17096413096819602
+skin04-b5,Skin,DT,0.31112459432917866
+skin04-b6,Skin,DT,0.054356641316178664
+skin04-c2-t2,Skin,DT,6.438287410674347
+skin04-c4-t2,Skin,DT,6.8968015954121364
+skin04-c5-t2,Skin,DT,17.932488231081514
+skin04-c6-t2,Skin,DT,16.429369509801564
+skin04-g2,Skin,DT,0.16380546491068143
+skin05-a6,Skin,DT,0.29446880833012995
+skin05-b1-t2,Skin,DT,4.440547430687255
+skin05-b5-t2,Skin,DT,4.908228136501382
+skin05-b6,Skin,DT,0.21814376756275475
+skin05-b7,Skin,DT,0.2603034843617042
+skin05-c6,Skin,DT,0.5380116508906131
+skin05-c7-t2,Skin,DT,4.533590838698641
+skin05-e5-t2,Skin,DT,7.587818098762644
+skin09-a4,Skin,Acetone,0.1125564294624333
+skin09-b2,Skin,Acetone,0.24602438938181698

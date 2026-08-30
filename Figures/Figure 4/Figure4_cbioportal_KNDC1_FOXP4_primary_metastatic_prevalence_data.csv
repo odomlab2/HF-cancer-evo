@@ -1,0 +1,15 @@
+gene_symbol,gene_label,candidate_group,human_symbols,comparison_cohort,endpoint_group,study_id,n_profiled,n_mutated,prevalence_pct
+Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,DFCI,Metastasis,cscc_dfarber_2015,0,0,NA
+Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,HGSC,Primary,cscc_hgsc_bcm_2014,32,6,18.75
+Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,HGSC,Metastasis,cscc_hgsc_bcm_2014,7,0,0
+Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,Ranson,Metastasis,cscc_ranson_2022,25,3,12
+Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,UCSF,Primary,cscc_ucsf_2021,83,4,4.819277108433735
+Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,Pooled,Primary,cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ucsf_2021;cscc_ranson_2022,115,10,8.695652173913043
+Foxp4,Foxp4 / FOXP4,Initiation (I),FOXP4,Pooled,Metastasis,cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ucsf_2021;cscc_ranson_2022,32,3,9.375
+Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,DFCI,Metastasis,cscc_dfarber_2015,0,0,NA
+Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,HGSC,Primary,cscc_hgsc_bcm_2014,32,7,21.875
+Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,HGSC,Metastasis,cscc_hgsc_bcm_2014,7,3,42.857142857142854
+Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,Ranson,Metastasis,cscc_ranson_2022,25,16,64
+Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,UCSF,Primary,cscc_ucsf_2021,83,7,8.433734939759036
+Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,Pooled,Primary,cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ucsf_2021;cscc_ranson_2022,115,14,12.173913043478262
+Kndc1,Kndc1 / KNDC1,Initiation (I),KNDC1,Pooled,Metastasis,cscc_dfarber_2015;cscc_hgsc_bcm_2014;cscc_ucsf_2021;cscc_ranson_2022,32,19,59.375

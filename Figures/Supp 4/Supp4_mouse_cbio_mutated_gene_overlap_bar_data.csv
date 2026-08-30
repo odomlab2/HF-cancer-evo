@@ -1,0 +1,4 @@
+cbio_overlap_group,overlap_segment,n_genes,n_genes_total,n_genes_without_human_ortholog
+Mutated in human cohorts,Genes with human ortholog,4694,4694,0
+Non-mutated in human cohorts,Genes with human ortholog,150,150,555
+Non-mutated in human cohorts,Genes without human ortholog,555,555,555

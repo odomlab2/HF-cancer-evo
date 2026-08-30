@@ -1,0 +1,124 @@
+sample_name,tissue,treatment,muts_per_mbp
+hairfollicle19-a3-w19,Hair follicle,Acetone,14.85970639616888
+hairfollicle19-a4-w19,Hair follicle,Acetone,105.3579737458345
+hairfollicle19-b3-w19,Hair follicle,Acetone,9.925578349992042
+hairfollicle19-b4-w19,Hair follicle,Acetone,23.726116872060405
+hairfollicle21-b5-w17,Hair follicle,DT,45.203152483714966
+hairfollicle21-b5-w8,Hair follicle,DT,39.01590734279376
+hairfollicle21-b6-w14,Hair follicle,DT,148.4559473594414
+hairfollicle21-b6-w17,Hair follicle,DT,22.326970444449604
+hairfollicle21-b6-w8,Hair follicle,DT,64.34345546628587
+hairfollicle21-b7-w14,Hair follicle,DT,34.65090785378577
+hairfollicle21-b7-w17,Hair follicle,DT,2.751542583560909
+hairfollicle21-b7-w8,Hair follicle,DT,184.99872813374407
+hairfollicle21-c1-w17,Hair follicle,DT,23.848224876208885
+hairfollicle21-c2-w17,Hair follicle,DT,24.28011674590769
+hairfollicle21-c3-w17,Hair follicle,DT,19.917032037652536
+hairfollicle21-c5-w14,Hair follicle,DT,27.571948125313384
+hairfollicle21-c5-w17,Hair follicle,DT,24.656303457947935
+hairfollicle21-c6-w14,Hair follicle,DT,5.074830164913527
+hairfollicle21-c6-w17,Hair follicle,DT,40.25496663002076
+hairfollicle21-c6-w8,Hair follicle,DT,45.88098190948176
+hairfollicle21-c7-w14,Hair follicle,DT,138.20881377349548
+hairfollicle21-c7-w17,Hair follicle,DT,9.42040297792396
+hairfollicle21-c7-w8,Hair follicle,DT,120.87598710499664
+hairfollicle21-d1-w14,Hair follicle,DT,31.056784742836882
+hairfollicle21-d1-w17,Hair follicle,DT,17.398478731962243
+hairfollicle21-d1-w8,Hair follicle,DT,57.92802504276517
+hairfollicle21-d2-w17,Hair follicle,DT,23.681250370019537
+hairfollicle21-d2-w8,Hair follicle,DT,52.636792132381274
+hairfollicle21-d3-w17,Hair follicle,DT,20.424697544270533
+hairfollicle21-d3-w8,Hair follicle,DT,32.69755627131251
+hairfollicle21-d4-w14,Hair follicle,DT,60.298534631837626
+hairfollicle21-d4-w17,Hair follicle,DT,21.76090403850249
+hairfollicle21-d4-w8,Hair follicle,DT,34.23303368679354
+hairfollicle21-d5-w17,Hair follicle,DT,32.77314022670819
+hairfollicle21-d6-w17,Hair follicle,DT,17.27541917836617
+hairfollicle21-d7-w17,Hair follicle,DT,10.256473373169475
+hairfollicle21-e1-w14,Hair follicle,DT,16.10225812212538
+hairfollicle21-e1-w17,Hair follicle,DT,36.42062176071449
+hairfollicle21-e2-w14,Hair follicle,DT,31.916237045694835
+hairfollicle21-e2-w17,Hair follicle,DT,10.36591686534674
+hairfollicle21-e2-w8,Hair follicle,DT,21.473139394693913
+hairfollicle21-e3-w14,Hair follicle,DT,74.35198573691487
+hairfollicle21-e3-w17,Hair follicle,DT,24.902013472568402
+hairfollicle21-e3-w8,Hair follicle,DT,25.80635045285245
+hairfollicle21-e4-w14,Hair follicle,DT,11.006429379868221
+hairfollicle21-e4-w17,Hair follicle,DT,20.351028700259434
+hairfollicle21-e4-w8,Hair follicle,DT,26.421860895606443
+hairfollicle21-e5-w17,Hair follicle,DT,26.93961279320917
+hairfollicle21-e6-w17,Hair follicle,DT,22.757606624655
+hairfollicle21-e7-w17,Hair follicle,DT,4.753958859240032
+hairfollicle21-f1-w14,Hair follicle,DT,17.32614557188528
+hairfollicle21-f1-w17,Hair follicle,DT,33.41897654101132
+hairfollicle21-f1-w8,Hair follicle,DT,98.45676829723317
+hairfollicle21-f2-w14,Hair follicle,DT,15.462588343300386
+hairfollicle21-f2-w17,Hair follicle,DT,34.09836678165134
+hairfollicle21-f2-w19,Hair follicle,DT,45.60638549208542
+hairfollicle21-f3-w17,Hair follicle,DT,19.555849656741984
+hairfollicle21-f3-w8,Hair follicle,DT,21.05990800536656
+hairfollicle21-f4-w17,Hair follicle,DT,16.93140804411196
+hairfollicle21-f4-w19,Hair follicle,DT,41.21214877301485
+hairfollicle21-f4-w8,Hair follicle,DT,66.707999466336
+hairfollicle21-f5-w17,Hair follicle,DT,33.04138085147639
+hairfollicle21-f6-w14,Hair follicle,DT,26.29957225856181
+hairfollicle21-f6-w17,Hair follicle,DT,45.6132428178999
+hairfollicle21-f6-w19,Hair follicle,DT,24.973736297984146
+hairfollicle21-f6-w8,Hair follicle,DT,61.760973802117846
+hairfollicle21-f7-w14,Hair follicle,DT,35.082438071009115
+hairfollicle21-f7-w17,Hair follicle,DT,65.03318605229433
+hairfollicle21-f7-w19,Hair follicle,DT,26.393813290164783
+hairfollicle21-f7-w8,Hair follicle,DT,33.16584581198282
+hairfollicle21-g1-w14,Hair follicle,DT,29.662520683595503
+hairfollicle21-g1-w17,Hair follicle,DT,24.74365572667168
+hairfollicle21-g1-w8,Hair follicle,DT,52.665029347339186
+hairfollicle21-g2-w14,Hair follicle,DT,27.47200859873869
+hairfollicle21-g2-w17,Hair follicle,DT,24.899859261665043
+hairfollicle21-g2-w19,Hair follicle,DT,47.14061555848467
+hairfollicle21-g2-w8,Hair follicle,DT,21.728502362974634
+hairfollicle21-g3-w14,Hair follicle,DT,20.38742066309837
+hairfollicle21-g3-w17,Hair follicle,DT,15.811999516876739
+hairfollicle21-g3-w8,Hair follicle,DT,19.410233907183034
+hairfollicle21-g4-w14,Hair follicle,DT,104.10727213320605
+hairfollicle21-g4-w17,Hair follicle,DT,48.57300141147428
+hairfollicle21-g4-w8,Hair follicle,DT,22.88247096786496
+hairfollicle21-g5-w17,Hair follicle,DT,29.87715891201177
+hairfollicle21-g6-w17,Hair follicle,DT,28.81395223956444
+hairfollicle21-g6-w19,Hair follicle,DT,65.74085059415862
+hairfollicle21-g6-w8,Hair follicle,DT,15.29168896704641
+hairfollicle21-g7-w14,Hair follicle,DT,19.13362926679933
+hairfollicle21-g7-w17,Hair follicle,DT,5.383913405136791
+hairfollicle21-g7-w19,Hair follicle,DT,52.47095661644582
+hairfollicle21-g7-w8,Hair follicle,DT,18.062972036261417
+skin19-a3-w19,Skin,Acetone,27.164397549375742
+skin19-a4-w19,Skin,Acetone,33.87238171844634
+skin19-b3-w19,Skin,Acetone,33.29707245552737
+skin19-b4-w19,Skin,Acetone,24.991982362544473
+skin21-b5-w19,Skin,DT,12.872165583488396
+skin21-b6-w19,Skin,DT,11.539943412920254
+skin21-b7-w19,Skin,DT,9.90953139761476
+skin21-c5-w19,Skin,DT,10.500108420527408
+skin21-c6-w19,Skin,DT,12.197090448951542
+skin21-c7-w19,Skin,DT,8.043118151017838
+skin21-d1-w19,Skin,DT,13.549166323361694
+skin21-d2-w19,Skin,DT,8.238309461768036
+skin21-d3-w19,Skin,DT,9.29301971149946
+skin21-d4-w19,Skin,DT,9.441895460513699
+skin21-e1-w19,Skin,DT,7.447080844046823
+skin21-e2-w19,Skin,DT,7.332131859429998
+skin21-e3-w19,Skin,DT,4.66686765310026
+skin21-e4-w19,Skin,DT,6.586847585413679
+skin21-f1-w19,Skin,DT,11.472054612715985
+skin21-f2-w19,Skin,DT,0.2658826319615385
+skin21-f3-w19,Skin,DT,5.8495663131535425
+skin21-f4-w19,Skin,DT,0.2550682702978866
+skin21-f6-w19,Skin,DT,0.24608345871285556
+skin21-f7-w19,Skin,DT,0.23807154430820932
+skin21-g1-w19,Skin,DT,12.239281449270802
+skin21-g2-w19,Skin,DT,0.4884146816476474
+skin21-g3-w19,Skin,DT,13.033980638652437
+skin21-g4-w19,Skin,DT,11.936629758902184
+skin21-g6-w19,Skin,DT,2.2671133047811405
+skin21-g7-w19,Skin,DT,1.7381337608149168
+skin21-pp-bc-w19,Skin,DT,12.304591945383917
+skin21-pp-de-w19,Skin,DT,14.939431506986486

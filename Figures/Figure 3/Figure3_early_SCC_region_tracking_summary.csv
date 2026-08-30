@@ -1,0 +1,9 @@
+early_timepoint,detection_outcome,n_mutations,total_early_mutations,pct_early_mutations
+Week 8,Later HF and Skin,11,1633,0.006736068585425597
+Week 8,Later HF only,51,1633,0.031230863441518677
+Week 8,Skin only,15,1633,0.009185548071034905
+Week 8,Not detected later,1556,1633,0.9528475199020208
+Week 14,Later HF and Skin,3,1458,0.00205761316872428
+Week 14,Later HF only,11,1458,0.0075445816186556925
+Week 14,Skin only,24,1458,0.01646090534979424
+Week 14,Not detected later,1420,1458,0.9739368998628258

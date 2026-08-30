@@ -1,0 +1,2 @@
+candidate_vaf_threshold,n_candidates_before_manual_exclusion,n_manually_excluded_candidate_genes,manually_excluded_candidate_genes,n_candidates_before_vaf_rule,n_candidates_after_vaf_rule,vaf_support_match_recurrence,vaf_null_require_min_gt_af
+0.049,81,3,1110059E24Rik;Gm1989;Vmn2r128,78,30,FALSE,FALSE
